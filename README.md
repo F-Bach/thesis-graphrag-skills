@@ -13,6 +13,22 @@ This project is organized into several key directories:
 *   **`GraphRAG API`**: An API that enables querying capabilities for the `graphrag-visualizer`. This service must be running to interact with the graph visualization tool.
 *   **`Scrooge`**: A self-contained, dummy example that demonstrates a standard GraphRAG implementation on a sample dataset.
 
+## GraphRAG Pipeline Steps
+
+To generate the knowledge graph using GraphRAG, the following sequence of steps should be executed:
+
+1.  **Environment Setup**: Create a Python virtual environment and install the `graphrag` library within it.
+2.  **Project Initialization**: Create a dedicated folder for your project (the standard naming convention is `ragtest`) and navigate into this directory.
+3.  **GraphRAG Initialization**: Execute the command `graphrag init` to set up the foundational project structure.
+4.  **API Key Configuration**: Populate the `.env` file with the necessary API keys required for external service calls (e.g., Large Language Models).
+5.  **Parameter Tuning**: Customize the `settings.yaml` file to align with the specific requirements and desired behaviors of your graph generation process.
+6.  **Input Data Placement**: Copy your raw input data files into the designated `input/` folder within your project directory.
+7.  **Graph Generation**: Execute the command `graphrag index` to initiate the graph generation process.
+
+Upon successful execution, the `output/` folder will contain all the relevant data representing the constructed knowledge graph.
+
+
+
 ## Graph Visualization Steps
 
 To visualize the generated knowledge graph, you will need to use the official `graphrag-visualizer` inside the `GraphRAG` folder. Follow these steps:
