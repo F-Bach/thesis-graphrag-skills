@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "ml_engineer": "1 year",
+    "data_scientist": "3 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science",
+    "Master of Data Science"
+  ],
+  "final name": "Noah",
+  "concatenated_summary": "Name: Noah | Experience: ml_engineer: 1 year, data_scientist: 3 years | Languages: Spanish Native, English C1, Galician B1 | Education: Bachelor of Computer Science, Master of Data Science | Technical Skills: AI Agents, AI Model Deployment, Bayesian Networks, Chatbots, CNN, Computer Vision, Data Augmentation, Deep Learning, Diffusion Models, Docker, Embeddings, Explainable AI, Fine-tuning, GAN, Gen AI, Grafana, Image Classification, Jupyter Notebooks, LangChain, Log Parsing, LSTM, LLMs, Model Compression, Model Explainability, Model Interpretability, Model Optimization, MongoDB, Multi-Task Learning, Neural Networks, NLP, Object Detection, OCR, Recommendation Systems, RNN, Self-Supervised Learning, Sentiment Analysis, Text Classification, Text Processing, Text Summarization, Time Series Forecasting, Transformers, Transfer Learning, MLFlow, Streamlit, Weights & Biases | Programming Languages: Python | Programming Language Packages: BeautifulSoup (Python), Bokeh (Python), FastAPI (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), Plotly (Python), PyPDF2 (Python), PySpark (Python), Pytest (Python), PyTorch (Python), Scikit-learn (Python), Seaborn (Python), SQLAlchemy (Python), Statsmodels (Python), TensorFlow (Python), XGBoost (Python)"
+}

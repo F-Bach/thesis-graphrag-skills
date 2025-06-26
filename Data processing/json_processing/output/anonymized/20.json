@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "devops_engineer": "4 years",
+    "backend_developer": "2 years",
+    "project_manager": "5 years",
+    "marketing_manager": "4 years"
+  },
+  "processed_education": [],
+  "final name": "Marco",
+  "concatenated_summary": "Name: Marco | Experience: devops_engineer: 4 years, backend_developer: 2 years, project_manager: 5 years, marketing_manager: 4 years | Languages: English B2, Spanish Native | Technical Skills: AI Model Deployment, Azure DevOps, Azure AI, Azure, Azure Kubernetes Service, Docker, HashiCorp Nomad, Kubernetes, Pulumi, Terraform | Programming Languages: Python, Shell | Programming Language Packages: FastAPI (Python), Flask (Python), NumPy (Python), Pytest (Python), Pygame (Python), Scrapy (Python), Oh My Zsh (Shell)"
+}

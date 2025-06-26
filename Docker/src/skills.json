@@ -1,0 +1,74 @@
+{
+    "SKILLS": {
+        "programming_languages": {
+            "Python": [
+                "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "Keras", "FastAPI", "OpenCV", "Flask", "Django", "Matplotlib", "Seaborn", "Plotly", "Dash", "SymPy", "SQLAlchemy", "Scrapy", "BeautifulSoup", "Twisted", "Pytest", "PyQt", "Tkinter", "Pygame", "Bokeh", "NetworkX", "PySpark", "Jupyter", "Cython"
+            ],
+            "R": [
+                "dplyr", "ggplot2", "caret", "shiny", "tidyr", "lubridate", "stringr", "data.table", "plotly", "leaflet", "RMarkdown", "knitr", "forecast", "zoo", "xts", "Tidyverse", "Rcpp", "igraph", "mlr", "randomForest"
+            ],
+            "Julia": [
+                "Flux", "MLJ", "DataFrames.jl", "Plots.jl", "JuMP", "DifferentialEquations.jl", "Gadfly", "Genie.jl", "Makie.jl", "StatsBase", "Distributions", "CSV.jl", "HTTP.jl", "GLM.jl", "Optim.jl"
+            ],
+            "Java": [
+                "Deeplearning4j", "Weka", "Spring", "Hibernate", "Apache POI", "JUnit", "Maven", "Gradle", "Log4j", "Gson", "Jackson", "JavaFX", "Swing", "AWT", "Apache Kafka", "Netty", "Jersey", "Thymeleaf", "Vaadin"
+            ],
+            "Scala": [
+                "Spark MLlib", "Akka", "Play Framework", "Slick", "Cats", "ZIO", "Scalatra", "Doobie", "Monix", "Circe", "Shapeless", "Alpakka", "Fs2", "Tapir", "Quill"
+            ],
+            "JavaScript": [
+                "React", "Vue.js", "Angular", "Node.js", "Express", "Next.js", "Nuxt.js", "Svelte", "D3.js", "Three.js", "JQuery", "Lodash", "Moment.js", "Chart.js", "Redux", "RxJS", "Webpack", "Babel", "Electron", "Socket.IO"
+            ],
+            "C++": [
+                "Boost", "Qt", "OpenCV", "Poco", "Cocos2d-x", "Unreal Engine", "SFML", "SDL", "Eigen", "Armadillo", "TBB", "Catch2", "gRPC", "Protobuf", "OpenGL", "DirectX", "Vulkan", "libcurl", "Crypto++"
+            ],
+            "C#": [
+                ".NET", "ASP.NET", "Entity Framework", "Xamarin", "Unity", "Blazor", "WPF", "WinForms", "SignalR", "NUnit", "Moq", "Dapper", "Serilog", "Autofac", "Hangfire", "MassTransit", "ML.NET"
+            ],
+            "Go": [
+                "Gin", "Echo", "Fiber", "Beego", "Gorm", "Go-kit", "Go-micro", "Cobra", "Viper", "Logrus", "Zap", "Chi", "Buffalo", "gRPC", "Protobuf", "Air", "Mux", "Go-swagger"
+            ],
+            "Ruby": [
+                "Rails", "Sinatra", "Hanami", "RSpec", "Capybara", "Sidekiq", "Puma", "Unicorn", "Devise", "OmniAuth", "ActiveRecord", "Sequel", "Rake", "Rubocop", "Pry", "Faraday", "HTTParty"
+            ],
+            "PHP": [
+                "Laravel", "Symfony", "CodeIgniter", "CakePHP", "Zend Framework", "Phalcon", "Slim", "Yii", "Composer", "PHPUnit", "Twig", "Blade", "Doctrine", "Guzzle", "Monolog", "Pest"
+            ],
+            "Rust": [
+                "Tokio", "Actix", "Rocket", "Diesel", "Serde", "Warp", "Hyper", "Tide", "Axum", "SeaORM", "Polars", "Reqwest", "Clap", "StructOpt", "async-std", "Trunk", "Yew", "Bevy"
+            ],
+            "Kotlin": [
+                "Ktor", "Spring Boot", "Exposed", "Koin", "Jetpack Compose", "Coroutines", "Anko", "MockK", "Arrow", "Detekt", "Kotlinx Serialization", "ktor-client", "Kotlin Multiplatform", "SQLDelight"
+            ],
+            "Swift": [
+                "SwiftUI", "Combine", "CoreData", "Alamofire", "RxSwift", "Vapor", "Perfect", "Kitura", "GRDB", "SnapKit", "Kingfisher", "Charts", "Realm", "PromiseKit", "SwiftyJSON"
+            ]
+        },
+        "tech_skills": [
+            "Active Learning", "Adversarial Training", "AI Agents", "AI Fairness", "AI Governance", "AI Hardware Optimization", "AI Model Deployment", "AI Model Monitoring", "AI Safety", "AI Security",
+            "AI Workflow Automation", "Alibaba Cloud", "Amazon ECS", "Amazon EKS", "Amazon S3", "Ansible", "Anomaly Detection", "Apache Beam", "Apache Camel", "Apache Cassandra", "Apache Drill", "Apache Flink",
+            "Apache Hadoop", "Apache Hive", "Apache Kafka", "Apache Mahout", "Apache NiFi", "Apache Pig", "Apache Pulsar", "Apache Spark", "Apache Storm", "Attention Mechanisms", "Audio Processing",
+            "Autoencoders", "AWS", "AWS Amplify", "AWS CloudFormation", "AWS CloudFront", "AWS CloudTrail", "AWS CodeBuild", "AWS CodeDeploy", "AWS CodePipeline", "AWS DynamoDB", "AWS Elastic Beanstalk",
+            "AWS Glue", "AWS Lambda", "AWS RDS", "AWS Redshift", "AWS S3", "AWS SageMaker", "AWS SQS", "Azure", "Azure AI", "Azure Cognitive Services", "Azure Data Factory", "Azure DevOps", "Azure Functions",
+            "Azure Kubernetes Service", "Azure Logic Apps", "Azure Machine Learning", "Azure Synapse", "Bayesian Networks", "BigQuery", "Capsule Networks", "Causal Inference", "Chatbots", "ClickHouse",
+            "CloudFormation", "CloudStack", "CNN", "Computer Vision", "Consul", "Contrastive Learning", "Core ML", "Data Augmentation", "Data Drift Detection", "Data Lake", "Data Mesh", "Data Versioning",
+            "Data Warehouse", "DataBricks", "DataRobot", "Delta Lake", "Deep Learning", "DigitalOcean", "Diffusion Models", "Docker", "Druid", "EKS Anywhere", "Elastic Beanstalk", "Elastic Load Balancing",
+            "Elasticsearch", "Embeddings", "Energy-Based Models", "Entity Extraction", "Ethical AI", "Explainable AI", "Facial Recognition", "Federated Learning", "Few-shot Learning", "Fine-tuning", "Flink",
+            "GAN", "Gen AI", "Google App Engine", "Google Bigtable", "Google Cloud Functions", "Google Cloud Run", "Google Dataflow", "Google Kubernetes Engine", "Grafana", "Graph Neural Networks",
+            "Greenplum", "HashiCorp Nomad", "Heroku", "HBase", "Hive", "Hyperparameter Tuning", "IBM Cloud", "Iceberg", "Image Classification", "Impala", "Instance Segmentation", "Istio", "Jupyter Notebooks",
+            "Kafka", "Knowledge Graphs", "Kubernetes", "Kylin", "LangChain", "Language Models", "Linode", "LLMs", "Log Parsing", "LSTM", "Machine Translation", "MapReduce", "MariaDB ColumnStore", "MemSQL",
+            "Meta-Learning", "Minikube", "Model Compression", "Model Explainability", "Model Interpretability", "Model Optimization", "MongoDB", "Multi-Task Learning", "Multimodal Learning", "Neo4j",
+            "Neural Architecture Search", "Neural Networks", "Neural Style Transfer", "NLP", "Object Detection", "OCR", "OpenShift", "Oracle Cloud", "Oracle Exadata", "Phoenix", "Pig", "Polars", "Presto",
+            "Prometheus", "Prompt Engineering", "Pulumi", "Qubole", "RAG", "Rancher", "Recommendation Systems", "Redshift", "Reinforcement Learning", "Rockset", "RNN", "SaltStack", "SeaORM",
+            "Self-Supervised Learning", "Semantic Segmentation", "Sentiment Analysis", "Serverless Framework", "SLAM", "Snowflake", "Sparse Models", "Speech Synthesis", "Speech-to-Text", "Splunk",
+            "Spring Cloud", "Spring Data", "Spring Security", "Spring WebFlux", "Spark", "SQL Optimization", "Storm", "Super-Resolution", "Synthetic Data Generation", "Terraform", "Teradata",
+            "Text Classification", "Text Processing", "Text Summarization", "Text-to-Image Models", "Text-to-Speech", "Text-to-Video Models", "Time Series Forecasting", "Transformers", "Transfer Learning",
+            "Trino", "Vault", "Vagrant", "Vertica", "Video Analysis", "VMware Tanzu", "XAI (Explainable AI)", "Zeppelin", "Zero-shot Learning", "ZooKeeper", "Zabbix", "Airflow", "dbt", "Talend",
+            "Informatica", "Pentaho", "Tableau Prep", "Google Dataflow", "Azure Data Factory", "Apache Arrow", "Apache Avro", "Apache Parquet", "Apache Thrift", "DataOps", "Feature Engineering",
+            "Feature Stores", "MLFlow", "ONNX", "PyCaret", "Ray", "Streamlit", "TensorRT", "Triton Inference Server", "Weights & Biases"
+        ],
+    "languages": [
+        "Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian", "Azerbaijani", "Basque", "Belarusian", "Bengali", "Bosnian", "Bulgarian", "Burmese", "Catalan", "Chinese", "Croatian", "Czech", "Danish", "Dutch", "English", "Estonian", "Finnish", "French", "Galician", "Georgian", "German", "Greek", "Gujarati", "Haitian Creole", "Hausa", "Hebrew", "Hindi", "Hungarian", "Icelandic", "Igbo", "Indonesian", "Irish", "Italian", "Japanese", "Javanese", "Kannada", "Kazakh", "Khmer", "Korean", "Kurdish", "Kyrgyz", "Lao", "Latvian", "Lithuanian", "Luxembourgish", "Macedonian", "Malay", "Malayalam", "Maltese", "Maori", "Marathi", "Mongolian", "Nepali", "Norwegian", "Pashto", "Persian", "Polish", "Portuguese", "Punjabi", "Romanian", "Russian", "Samoan", "Serbian", "Shona", "Sinhala", "Slovak", "Slovenian", "Somali", "Spanish", "Swahili", "Swedish", "Tagalog", "Tajik", "Tamil", "Tatar", "Telugu", "Thai", "Tigrinya", "Turkish", "Turkmen", "Ukrainian", "Urdu"
+        ]
+    }
+}

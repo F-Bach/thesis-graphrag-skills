@@ -1,0 +1,10 @@
+{
+  "processed_experience": {
+    "aws_devops_engineer": "3 years"
+  },
+  "processed_education": [
+    "Master of Telecommunications Engineering"
+  ],
+  "final name": "Manuel",
+  "concatenated_summary": "Name: Manuel | Experience: aws_devops_engineer: 3 years | Languages: Spanish Native, English C1 | Education: Master of Telecommunications Engineering | Technical Skills: Terraform, AWS, github actions, GCP, AWS Lambda, security | Programming Languages: Go, Python, Scala, TypeScript | Programming Language Packages: Cobra (Go), Jupyter (Python), Play Framework (Scala), React (TypeScript)"
+}

@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "data_scientist": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Mathematics",
+    "Bachelor of Physics",
+    "Master of Statistics for Data Science"
+  ],
+  "final name": "Liam",
+  "concatenated_summary": "Name: Liam | Experience: data_scientist: 1 year | Languages: English C1, Spanish Native | Education: Bachelor of Mathematics, Bachelor of Physics, Master of Statistics for Data Science | Technical Skills: Azure DevOps, Azure Machine Learning, DataBricks, Deep Learning, Anomaly Detection, Apache Spark, Azure, Azure Data Factory, Explainable AI, Hyperparameter Tuning, Jupyter Notebooks, Model Explainability, Model Interpretability, Model Optimization, Recommendation Systems, Spark, Feature Engineering, Feature Stores, MLFlow | Programming Languages: R, Python, C++ | Programming Language Packages: dplyr (R), ggplot2 (R), igraph (R), randomForest (R), RMarkdown (R), plotly (R), shiny (R), tidyr (R), Tidyverse (R), NumPy (Python), Pandas (Python), Plotly (Python), PySpark (Python), Scikit-learn (Python), Seaborn (Python), TensorFlow (Python)"
+}

@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "senior_data_engineer": "2 years",
+    "business_intelligence_consultant": "1 year",
+    "data_scientist_junior": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Industrial Electronic and Automatic Engineering",
+    "Master of Data Science and AI"
+  ],
+  "final name": "Jorge",
+  "concatenated_summary": "Name: Jorge | Experience: senior_data_engineer: 2 years, business_intelligence_consultant: 1 year, data_scientist_junior: 1 year | Languages: English C1, Spanish Native | Education: Bachelor of Industrial Electronic and Automatic Engineering, Master of Data Science and AI | Technical Skills: DataBricks, PYSPARK, Azure Data Factory, Azure Logic Apps, Azure, SQL | Programming Languages:  | Programming Language Packages: "
+}

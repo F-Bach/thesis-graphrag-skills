@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "json-processing"
+version = "0.1.0"
+description = ""
+authors = [""]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+langchain = "^0.3.17"
+pandas = "^2.2.3"
+openai = "^1.61.0"
+langchain-openai = "^0.3.3"
+python-dotenv = "^1.0.1"
+pydantic-settings = "^2.7.1"
+requests = "^2.32.3"
+transformers = "^4.48.2"
+pycryptodome = "^3.21.0"
+pathlib = "^1.0.1"
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"

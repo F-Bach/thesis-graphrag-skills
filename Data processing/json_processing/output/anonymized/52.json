@@ -1,0 +1,16 @@
+{
+  "processed_experience": {
+    "data_scientist_lead": "6 years",
+    "java_consultant": "1 year",
+    "sap_consultant": "4 years"
+  },
+  "processed_education": [
+    "Bachelor of Telecommunication Engineering",
+    "Bachelor of Electronic Engineering",
+    "Master of Big Data and Data Science",
+    "Master of Business Administration",
+    "Doctorate in Biomedical Signal Processing"
+  ],
+  "final name": "Luis",
+  "concatenated_summary": "Name: Luis | Experience: data_scientist_lead: 6 years, java_consultant: 1 year, sap_consultant: 4 years | Languages: Spanish Native, English C1 | Education: Bachelor of Telecommunication Engineering, Bachelor of Electronic Engineering, Master of Big Data and Data Science, Master of Business Administration, Doctorate in Biomedical Signal Processing | Technical Skills: Active Learning, AWS S3, AWS SageMaker, Causal Inference, DataBricks, Deep Learning, Model Explainability, Model Compression, Model Optimization, Model Interpretability, Spark, Time Series Forecasting, ONNX, MLFlow, PyCaret, Operation Research | Programming Languages: Python, MATLAB, R | Programming Language Packages: FastAPI (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NumPy (Python), Pyomo (Python), Scikit-learn (Python), Seaborn (Python), Statsmodels (Python), TensorFlow (Python), XGBoost (Python), PyTorch (Python), Pandas (Python), Pillow (Python), PySpark (Python), pycaret (Python), Deep Learning Toolbox (MATLAB), Statistics and Machine Learning Toolbox (MATLAB), caret (R), forecast (R), ggplot2 (R), lubridate (R), tidyr (R), data.table (R), glmnet (R), lme4 (R)"
+}

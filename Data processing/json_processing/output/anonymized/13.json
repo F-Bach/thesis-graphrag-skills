@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "data_scientist": "1 year",
+    "telecommunications_engineer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Telecommunications Engineering",
+    "Master of Telecommunications Engineering",
+    "Master of Big Data Analytics"
+  ],
+  "final name": "Adrian",
+  "concatenated_summary": "Name: Adrian | Experience: data_scientist: 1 year, telecommunications_engineer: 1 year | Languages: Spanish Native, English C1 | Education: Bachelor of Telecommunications Engineering, Master of Telecommunications Engineering, Master of Big Data Analytics | Technical Skills: Active Learning, AI Agents, Gen AI, Jupyter Notebooks, LangChain, Language Models, LLMs, NLP, Prompt Engineering, RAG, Streamlit, Spark | Programming Languages: Python, R, MATLAB, Java | Programming Language Packages: FastAPI (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), Plotly (Python), PyPDF2 (Python), PySpark (Python), Scikit-learn (Python), SQLAlchemy (Python), BeautifulSoup (Python), Pytest (Python), ggplot2 (R), RMarkdown (R), Tidyverse (R), dplyr (R)"
+}

@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "business_analyst": "1 year",
+    "data_scientist": "0 year"
+  },
+  "processed_education": [
+    "Master of Business Analytics and Big Data",
+    "Bachelor of Aerospace Engineering"
+  ],
+  "final name": "Nicolas",
+  "concatenated_summary": "Name: Nicolas | Experience: business_analyst: 1 year, data_scientist: 0 year | Languages: German C1, English C1, Spanish Native | Education: Master of Business Analytics and Big Data, Bachelor of Aerospace Engineering | Technical Skills: AWS, Azure, machine learning, Azure DevOps, Apache Kafka, DataBricks, Docker, Iceberg, Image Classification, MLFlow, Streamlit | Programming Languages: Python, R | Programming Language Packages: Django (Python), Matplotlib (Python), Jupyter (Python), NumPy (Python), OpenCV (Python), Pandas (Python), PySpark (Python), Pytest (Python), Scikit-learn (Python), TensorFlow (Python), XGBoost (Python), caret (R), dplyr (R), ggplot2 (R), randomForest (R), RMarkdown (R), shiny (R)"
+}

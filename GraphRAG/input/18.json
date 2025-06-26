@@ -1,0 +1,10 @@
+{
+  "processed_experience": {
+    "developer": "8 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science"
+  ],
+  "final name": "David",
+  "concatenated_summary": "Name: David | Experience: developer: 8 years | Languages: Spanish Native, English B2 | Education: Bachelor of Computer Science | Programming Languages: react | Programming Language Packages: jest (react), vite (react), react-hook-form (react), lodash (react), react-router (react)"
+}

@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "data_scientist": "4 years",
+    "data_analyst": "1 year"
+  },
+  "processed_education": [
+    "Master of Big Data & Business Analytics",
+    "Bachelor of Physics",
+    "Bachelor of Materials Engineering"
+  ],
+  "final name": "Hugo",
+  "concatenated_summary": "Name: Hugo | Experience: data_scientist: 4 years, data_analyst: 1 year | Languages: Spanish Native, English C1, French B1 | Education: Master of Big Data & Business Analytics, Bachelor of Physics, Bachelor of Materials Engineering | Technical Skills: Autoencoders, Azure Data Factory, Azure DevOps, Azure Functions, Causal Inference, Computer Vision, Data Augmentation, Data Drift Detection, Data Versioning, Deep Learning, Diffusion Models, Image Classification, Instance Segmentation, Jupyter Notebooks, LSTM, Model Explainability, MongoDB, Neural Networks, Object Detection, OCR, Semantic Segmentation, Sentiment Analysis, Spark, MLFlow, Feature Engineering, Streamlit | Programming Languages: Python, R, MATLAB | Programming Language Packages: BeautifulSoup (Python), Jupyter (Python), Flask (Python), Keras (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Pillow (Python), Plotly (Python), PyInstaller (Python), Pyomo (Python), PySpark (Python), Pytest (Python), PyTorch (Python), Requests (Python), Scikit-learn (Python), Scrapy (Python), Seaborn (Python), SQLAlchemy (Python), Statsmodels (Python), SymPy (Python), TensorFlow (Python), Tkinter (Python), XGBoost (Python), caret (R), data.table (R), dplyr (R), forecast (R), ggplot2 (R), glmnet (R), knitr (R), leaflet (R), lubridate (R), plotly (R), randomForest (R), RMarkdown (R), shiny (R), tidyr (R), Tidyverse (R), Simulink (MATLAB), Statistics and Machine Learning Toolbox (MATLAB)"
+}

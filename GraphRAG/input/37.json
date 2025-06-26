@@ -1,0 +1,14 @@
+{
+  "processed_experience": {
+    "senior_data_scientist": "6 years",
+    "ml_engineer": "1 year",
+    "lead_developer": "1 year",
+    "data_analyst": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Business Administration",
+    "Master of Business Consulting"
+  ],
+  "final name": "Gabriel",
+  "concatenated_summary": "Name: Gabriel | Experience: senior_data_scientist: 6 years, ml_engineer: 1 year, lead_developer: 1 year, data_analyst: 1 year | Languages: English C2, Spanish Native, German A1 | Education: Bachelor of Business Administration, Master of Business Consulting | Technical Skills: AI Model Deployment, AI Model Monitoring, Amazon S3, Apache Spark, AWS, AWS CloudFront, AWS Elastic Beanstalk, AWS Lambda, AWS RDS, AWS S3, AWS SageMaker, Azure, Azure Data Factory, Azure Machine Learning, BigQuery, Computer Vision, CNN, DataBricks, Delta Lake, Deep Learning, Docker, Elastic Beanstalk, Embeddings, Explainable AI, Fine-tuning, Gen AI, Hyperparameter Tuning, Jupyter Notebooks, LangChain, Language Models, LLMs, LSTM, Model Explainability, Model Optimization, Neural Networks, NLP, RAG, RNN, Terraform, Time Series Forecasting, MLFlow, Streamlit, Software Development | Programming Languages: JavaScript, Python, R, SQL | Programming Language Packages: D3.js (JavaScript), BeautifulSoup (Python), Bokeh (Python), Dash (Python), Django (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NetworkX (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Plotly (Python), PySpark (Python), Scikit-learn (Python), Seaborn (Python), Statsmodels (Python), TensorFlow (Python), XGBoost (Python), dplyr (R), ggplot2 (R), forecast (R), lubridate (R), plotly (R), randomForest (R), Tidyverse (R), shiny (R)"
+}

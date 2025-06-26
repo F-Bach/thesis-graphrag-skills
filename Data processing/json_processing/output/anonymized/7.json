@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "lead_developer": "1 year",
+    "chatbot_developer": "5 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science"
+  ],
+  "final name": "Daniel",
+  "concatenated_summary": "Name: Daniel | Experience: lead_developer: 1 year, chatbot_developer: 5 years | Languages: Spanish Native, English B2 | Education: Bachelor of Computer Science | Technical Skills: AI Agents, Chatbots, NLP, Gen AI, LLMs, Prompt Engineering, Google Cloud Functions, Google Cloud Run, Azure Functions, AWS Lambda, Amazon S3 | Programming Languages: JavaScript, TypeScript, Java | Programming Language Packages: "
+}

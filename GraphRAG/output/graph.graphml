@@ -1,0 +1,4708 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="MANUEL" />
+    <node id="AWS DEVOPS ENGINEER" />
+    <node id="SPANISH" />
+    <node id="ENGLISH" />
+    <node id="MASTER OF TELECOMMUNICATIONS ENGINEERING" />
+    <node id="TERRAFORM" />
+    <node id="AWS" />
+    <node id="GITHUB ACTIONS" />
+    <node id="GCP" />
+    <node id="AWS LAMBDA" />
+    <node id="SECURITY" />
+    <node id="GO" />
+    <node id="PYTHON" />
+    <node id="SCALA" />
+    <node id="TYPESCRIPT" />
+    <node id="GONZALO" />
+    <node id="SOFTWARE ENGINEER" />
+    <node id="BUSINESS INTELLIGENCE" />
+    <node id="SUPPLY CHAIN MANAGEMENT" />
+    <node id="GALICIAN" />
+    <node id="BACHELOR OF CIVIL ENGINEERING" />
+    <node id="MASTER OF LOGISTICS AND INTERNATIONAL TRADE" />
+    <node id="MONGODB" />
+    <node id="POSTGRESQL" />
+    <node id="AZURE" />
+    <node id="GIT" />
+    <node id="JAVASCRIPT" />
+    <node id="DARIO" />
+    <node id="SENIOR DATA ENGINEER" />
+    <node id="BUSINESS INTELLIGENCE DEVELOPER" />
+    <node id="BACHELOR OF MECHATRONICS ENGINEERING" />
+    <node id="MASTER OF AI AND DATA SCIENCE" />
+    <node id="AZURE SYNAPSE" />
+    <node id="AZURE DATA FACTORY" />
+    <node id="AZURE FUNCTIONS" />
+    <node id="AZURE LOGIC APPS" />
+    <node id="DATABRICKS" />
+    <node id="AWS GLUE" />
+    <node id="PYSPARK" />
+    <node id="C#" />
+    <node id="SHELL" />
+    <node id="VISUAL BASIC" />
+    <node id="THIAGO" />
+    <node id="MACHINE LEARNING ENGINEER" />
+    <node id="DATA ENGINEER" />
+    <node id="BACHELOR OF COMPUTER ENGINEERING" />
+    <node id="MASTER OF DATA SCIENCE AND ENGINEERING" />
+    <node id="AI AGENTS" />
+    <node id="AI GOVERNANCE" />
+    <node id="AI MODEL DEPLOYMENT" />
+    <node id="AI MODEL MONITORING" />
+    <node id="AI SAFETY" />
+    <node id="AI SECURITY" />
+    <node id="APACHE HADOOP" />
+    <node id="APACHE KAFKA" />
+    <node id="APACHE SPARK" />
+    <node id="AZURE AI" />
+    <node id="AZURE MACHINE LEARNING" />
+    <node id="CNN" />
+    <node id="CLOUDSTACK" />
+    <node id="COMPUTER VISION" />
+    <node id="DATA AUGMENTATION" />
+    <node id="DEEP LEARNING" />
+    <node id="DOCKER" />
+    <node id="EMBEDDINGS" />
+    <node id="FINE-TUNING" />
+    <node id="GAN" />
+    <node id="GEN AI" />
+    <node id="GOOGLE CLOUD FUNCTIONS" />
+    <node id="GRAPH NEURAL NETWORKS" />
+    <node id="HYPERPARAMETER TUNING" />
+    <node id="IMAGE CLASSIFICATION" />
+    <node id="JUPYTER NOTEBOOKS" />
+    <node id="KAFKA" />
+    <node id="KNOWLEDGE GRAPHS" />
+    <node id="LANGCHAIN" />
+    <node id="LANGUAGE MODELS" />
+    <node id="LLMS" />
+    <node id="LSTM" />
+    <node id="NEO4J" />
+    <node id="NEURAL NETWORKS" />
+    <node id="NLP" />
+    <node id="OCR" />
+    <node id="PROMPT ENGINEERING" />
+    <node id="RAG" />
+    <node id="LUIS" />
+    <node id="DATA SCIENTIST LEAD" />
+    <node id="JAVA CONSULTANT" />
+    <node id="SAP CONSULTANT" />
+    <node id="BACHELOR OF TELECOMMUNICATION ENGINEERING" />
+    <node id="BACHELOR OF ELECTRONIC ENGINEERING" />
+    <node id="MASTER OF BIG DATA AND DATA SCIENCE" />
+    <node id="MASTER OF BUSINESS ADMINISTRATION" />
+    <node id="DOCTORATE IN BIOMEDICAL SIGNAL PROCESSING" />
+    <node id="ACTIVE LEARNING" />
+    <node id="AWS S3" />
+    <node id="AWS SAGEMAKER" />
+    <node id="CAUSAL INFERENCE" />
+    <node id="MODEL EXPLAINABILITY" />
+    <node id="MODEL COMPRESSION" />
+    <node id="MODEL OPTIMIZATION" />
+    <node id="MODEL INTERPRETABILITY" />
+    <node id="SPARK" />
+    <node id="TIME SERIES FORECASTING" />
+    <node id="ONNX" />
+    <node id="MLFLOW" />
+    <node id="PYCARET" />
+    <node id="OPERATION RESEARCH" />
+    <node id="MATLAB" />
+    <node id="R" />
+    <node id="LUCA" />
+    <node id="DATA SCIENTIST" />
+    <node id="RESEARCHER" />
+    <node id="BACHELOR OF DIGITAL AND MULTIMEDIA TECHNOLOGY" />
+    <node id="MASTER OF BIG DATA ANALYTICS" />
+    <node id="AUDIO PROCESSING" />
+    <node id="AZURE DEVOPS" />
+    <node id="DATA DRIFT DETECTION" />
+    <node id="DATA LAKE" />
+    <node id="DELTA LAKE" />
+    <node id="MAPREDUCE" />
+    <node id="REINFORCEMENT LEARNING" />
+    <node id="SENTIMENT ANALYSIS" />
+    <node id="TRANSFER LEARNING" />
+    <node id="VIDEO ANALYSIS" />
+    <node id="FEATURE ENGINEERING" />
+    <node id="ENZO" />
+    <node id="SPECIALIST DATA SCIENTIST" />
+    <node id="SOFTWARE DEVELOPER" />
+    <node id="MASTER OF DATA SCIENCE" />
+    <node id="BACHELOR OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGIES ENGINEERING" />
+    <node id="ANOMALY DETECTION" />
+    <node id="AMAZON ECS" />
+    <node id="AMAZON S3" />
+    <node id="BIGQUERY" />
+    <node id="CHATBOTS" />
+    <node id="GRAFANA" />
+    <node id="MACHINE TRANSLATION" />
+    <node id="NEURAL ARCHITECTURE SEARCH" />
+    <node id="RECOMMENDATION SYSTEMS" />
+    <node id="SELF-SUPERVISED LEARNING" />
+    <node id="SPEECH-TO-TEXT" />
+    <node id="TRANSFORMERS" />
+    <node id="TABLEAU PREP" />
+    <node id="APACHE PARQUET" />
+    <node id="TEXT SUMMARIZATION" />
+    <node id="TEXT PROCESSING" />
+    <node id="TEXT CLASSIFICATION" />
+    <node id="SQL OPTIMIZATION" />
+    <node id="REDSHIFT" />
+    <node id="ELASTICSEARCH" />
+    <node id="DATA WAREHOUSE" />
+    <node id="DATA VERSIONING" />
+    <node id="AWS REDSHIFT" />
+    <node id="JAIME" />
+    <node id="INTERN HYDROGEN TECHNOLOGIES ENGINEER" />
+    <node id="PORTUGUESE" />
+    <node id="BACHELOR OF INDUSTRIAL TECHNOLOGIES ENGINEERING" />
+    <node id="DIFFUSION MODELS" />
+    <node id="ICEBERG" />
+    <node id="RNN" />
+    <node id="STREAMLIT" />
+    <node id="JORGE" />
+    <node id="BUSINESS INTELLIGENCE CONSULTANT" />
+    <node id="DATA SCIENTIST JUNIOR" />
+    <node id="BACHELOR OF INDUSTRIAL ELECTRONIC AND AUTOMATIC ENGINEERING" />
+    <node id="MASTER OF DATA SCIENCE AND AI" />
+    <node id="SQL" />
+    <node id="MARC" />
+    <node id="TECH DIRECTOR" />
+    <node id="SOLUTION ARCHITECT" />
+    <node id="LEAD DATA ENGINEER" />
+    <node id="SENIOR BIG DATA ENGINEER" />
+    <node id="DATABASE ADMIN" />
+    <node id="FRENCH" />
+    <node id="AI HARDWARE OPTIMIZATION" />
+    <node id="AMAZON EKS" />
+    <node id="APACHE CASSANDRA" />
+    <node id="APACHE FLINK" />
+    <node id="APACHE HIVE" />
+    <node id="APACHE NIFI" />
+    <node id="APACHE PULSAR" />
+    <node id="APACHE STORM" />
+    <node id="AWS CLOUDFORMATION" />
+    <node id="AWS CODEDEPLOY" />
+    <node id="AWS CLOUDTRAIL" />
+    <node id="AWS DYNAMODB" />
+    <node id="MARIO" />
+    <node id="FULL STACK DEVELOPER" />
+    <node id="BACHELOR OF COMPUTER SCIENCE" />
+    <node id="MASTER OF DATA SCIENCE &amp; INNOVATION" />
+    <node id="PHP" />
+    <node id="JOSE" />
+    <node id="SENIOR CONSULTANT" />
+    <node id="NICOLAS" />
+    <node id="BUSINESS ANALYST" />
+    <node id="GERMAN" />
+    <node id="MASTER OF BUSINESS ANALYTICS AND BIG DATA" />
+    <node id="BACHELOR OF AEROSPACE ENGINEERING" />
+    <node id="MACHINE LEARNING" />
+    <node id="ADAM" />
+    <node id="CORE ML" />
+    <node id="DATABASES" />
+    <node id="DYLAN" />
+    <node id="CONSULTANT" />
+    <node id="JAVA" />
+    <node id="ASP.NET" />
+    <node id="FASTAPI" />
+    <node id="JESUS" />
+    <node id="MASTER OF BIG DATA &amp; DATA SCIENCE" />
+    <node id="BACHELOR OF MATHEMATICS" />
+    <node id="DANIEL" />
+    <node id="LEAD DEVELOPER" />
+    <node id="CHATBOT DEVELOPER" />
+    <node id="GOOGLE CLOUD RUN" />
+    <node id="MARTIN" />
+    <node id="CATALAN" />
+    <node id="BACHELOR OF DATA ENGINEERING" />
+    <node id="MASTER OF BIG DATA &amp; ANALYTICS" />
+    <node id="DATA MESH" />
+    <node id="SYNTHETIC DATA GENERATION" />
+    <node id="IAN" />
+    <node id="PARTNER" />
+    <node id="INTERN TEST ENGINEER" />
+    <node id="BACHELOR OF INDUSTRIAL ELECTRONIC ENGINEERING" />
+    <node id="DATA ENGINEERING" />
+    <node id="PANDAS" />
+    <node id="POLARS" />
+    <node id="HEROKU" />
+    <node id="IZAN" />
+    <node id="UX DESIGNER" />
+    <node id="WEB COMMUNICATION MANAGER" />
+    <node id="BACHELOR OF SOCIAL COMMUNICATION AND JOURNALISM" />
+    <node id="MASTER OF CORPORATE COMMUNICATION" />
+    <node id="AGILE METHODOLOGIES" />
+    <node id="FIGMA" />
+    <node id="UX DESIGN" />
+    <node id="ADOBE ILLUSTRATOR" />
+    <node id="MURAL" />
+    <node id="POWERBI" />
+    <node id="USER RESEARCH" />
+    <node id="PROTOTYPING" />
+    <node id="MIRO" />
+    <node id="ADOBE PHOTOSHOP" />
+    <node id="MARCO" />
+    <node id="DEVOPS ENGINEER" />
+    <node id="BACKEND DEVELOPER" />
+    <node id="PROJECT MANAGER" />
+    <node id="MARKETING MANAGER" />
+    <node id="AZURE KUBERNETES SERVICE" />
+    <node id="HASHICORP NOMAD" />
+    <node id="KUBERNETES" />
+    <node id="PULUMI" />
+    <node id="FLASK" />
+    <node id="NUMPY" />
+    <node id="PYTEST" />
+    <node id="PYGAME" />
+    <node id="SCRAPY" />
+    <node id="OH MY ZSH" />
+    <node id="OLIVER" />
+    <node id="JUNIOR CONSULTANT" />
+    <node id="RESEARCH ASSISTANT" />
+    <node id="BACHELOR OF PHYSICS" />
+    <node id="JAVIER" />
+    <node id="DATA SCIENCE" />
+    <node id="OWNER" />
+    <node id="LINUX" />
+    <node id="AIRFLOW" />
+    <node id="TEXT TO SPEECH" />
+    <node id="SPEECH TO TEXT" />
+    <node id="ANTONIO" />
+    <node id="SERVICE MANAGER" />
+    <node id="BIG DATA ENGINEER" />
+    <node id="FUNCTIONAL ANALYST" />
+    <node id="MASTER OF INFORMATION AND COMMUNICATION SYSTEMS MANAGEMENT" />
+    <node id="MASTER OF BIG DATA AND BUSINESS ANALYTICS" />
+    <node id="BASH" />
+    <node id="COBOL" />
+    <node id="ERIC" />
+    <node id="NOAH" />
+    <node id="ML_ENGINEER" />
+    <node id="DATA_SCIENTIST" />
+    <node id="BAYESIAN NETWORKS" />
+    <node id="EXPLAINABLE AI" />
+    <node id="LOG PARSING" />
+    <node id="MULTI-TASK LEARNING" />
+    <node id="OBJECT DETECTION" />
+    <node id="WEIGHTS &amp; BIASES" />
+    <node id="BEAUTIFULSOUP" />
+    <node id="BOKEH" />
+    <node id="JUPYTER" />
+    <node id="KERAS" />
+    <node id="MATPLOTLIB" />
+    <node id="PAU" />
+    <node id="GUILLERMO" />
+    <node id="BACKEND AND DEVOPS ENGINEER" />
+    <node id="FULL STACK ENGINEER" />
+    <node id="FULL STACK DEVELOPMENT" />
+    <node id="BACKEND DEVELOPMENT" />
+    <node id="API DEVELOPMENT" />
+    <node id="GOOGLE CLOUD PLATFORM" />
+    <node id="DEVOPS" />
+    <node id="DEVSECOPS" />
+    <node id="REST APIS" />
+    <node id="INFRASTRUCTURE AS CODE" />
+    <node id="LIAM" />
+    <node id="MASTER OF STATISTICS FOR DATA SCIENCE" />
+    <node id="FEATURE STORES" />
+    <node id="C++" />
+    <node id="ALVARO" />
+    <node id="SENIOR MACHINE LEARNING ENGINEER" />
+    <node id="SENIOR DATA SCIENTIST" />
+    <node id="MASTER OF BIG DATA &amp; BUSINESS ANALYTICS" />
+    <node id="DOCTORATE IN ENGINEERING" />
+    <node id="MASTER OF SCIENCE &amp; TECHNOLOGY" />
+    <node id="AUTOENCODERS" />
+    <node id="PROMETHEUS" />
+    <node id="INFORMATICA" />
+    <node id="SAMUEL" />
+    <node id="PROGRAMMER" />
+    <node id="AZURE COGNITIVE SERVICES" />
+    <node id="DAVID" />
+    <node id="DEVELOPER" />
+    <node id="REACT" />
+    <node id="JEST" />
+    <node id="VITE" />
+    <node id="REACT-HOOK-FORM" />
+    <node id="LODASH" />
+    <node id="REACT-ROUTER" />
+    <node id="BRUNO" />
+    <node id="MANAGER" />
+    <node id="CLOUDFORMATION" />
+    <node id="CARLOS" />
+    <node id="WEB DEVELOPER" />
+    <node id="MICROSOFT POWER BI" />
+    <node id="SAFE 5" />
+    <node id="GITHUB" />
+    <node id="PHOTOSHOP" />
+    <node id="UNITY" />
+    <node id="VUEJS" />
+    <node id="XML" />
+    <node id="MICROSOFT SQL" />
+    <node id="ORACLE SQL" />
+    <node id="ALEJANDRO" />
+    <node id="SENIOR ANDROID DEVELOPER" />
+    <node id="SENIOR NET DEVELOPER" />
+    <node id="DIEGO" />
+    <node id="SOFTWARE ENGINEER INTERN" />
+    <node id="UNIVERSITY LECTURER" />
+    <node id="MASTER OF ARTIFICIAL INTELLIGENCE" />
+    <node id="INSTANCE SEGMENTATION" />
+    <node id="ANGEL" />
+    <node id="FRONTEND SOFTWARE ENGINEER" />
+    <node id="EXPRESS" />
+    <node id="NEXT.JS" />
+    <node id="NODE.JS" />
+    <node id="REDUX" />
+    <node id="ZUSTAND" />
+    <node id="GRAPHQL" />
+    <node id="MATERIAL-UI" />
+    <node id="REACT HOOK FORM" />
+    <node id="LUCAS" />
+    <node id="MACHINE LEARNING ENGINEER TRAINEE" />
+    <node id="STUDENT INTERN" />
+    <node id="C" />
+    <node id="GABRIEL" />
+    <node id="ML ENGINEER" />
+    <node id="DATA ANALYST" />
+    <node id="BACHELOR OF BUSINESS ADMINISTRATION" />
+    <node id="MASTER OF BUSINESS CONSULTING" />
+    <node id="AWS CLOUDFRONT" />
+    <node id="AWS ELASTIC BEANSTALK" />
+    <node id="AWS RDS" />
+    <node id="ELASTIC BEANSTALK" />
+    <node id="SOFTWARE DEVELOPMENT" />
+    <node id="ADRIAN" />
+    <node id="TELECOMMUNICATIONS ENGINEER" />
+    <node id="BACHELOR OF TELECOMMUNICATIONS ENGINEERING" />
+    <node id="IKER" />
+    <node id="ITALIAN" />
+    <node id="ANSIBLE" />
+    <node id="GROOVY" />
+    <node id="SERGIO" />
+    <node id="SOLUTIONS ARCHITECT" />
+    <node id="SENIOR BIG DATA DEVELOPER" />
+    <node id="BIG DATA MASTER TEACHER" />
+    <node id="BIG DATA" />
+    <node id="MICROSOFT AZURE" />
+    <node id="MATEO" />
+    <node id="ANALYST PROGRAMMER" />
+    <node id="APACHE PIG" />
+    <node id="IMPALA" />
+    <node id="PRESTO" />
+    <node id="APACHE AVRO" />
+    <node id="KOTLIN" />
+    <node id="RODRIGO" />
+    <node id="MASTER OF BIG DATA" />
+    <node id="AWS API GATEWAY" />
+    <node id="AWS EC2" />
+    <node id="AWS EMR" />
+    <node id="JENKINS" />
+    <node id="CI/CD" />
+    <node id="UNIX" />
+    <node id="PABLO" />
+    <node id="GAEL" />
+    <node id="BACHELOR OF SOFTWARE ENGINEERING" />
+    <node id="ALEX" />
+    <node id="AZURE DATALAKE" />
+    <node id="MARCOS" />
+    <node id="SIMULATION ENGINEER" />
+    <node id="FORTRAN" />
+    <node id="HECTOR" />
+    <node id="DIRECTOR OF ANALYSIS AND INVESTMENTS" />
+    <node id="SALES DIRECTOR" />
+    <node id="CONTROLLER AND PURCHASING RESPONSIBLE" />
+    <node id="TREASURY AND CAPITAL MARKETS ANALYST" />
+    <node id="EQUITY AND DERIVATIVES TRADER" />
+    <node id="COMMERCIAL ADVISOR" />
+    <node id="MASTER OF BUSINESS INTELLIGENCE AND BIG DATA SCIENCE" />
+    <node id="MASTER OF MANAGEMENT OF FINANCIAL INSTITUTIONS" />
+    <node id="MASTER OF STOCK AND FINANCIAL MARKETS" />
+    <node id="BACHELOR OF ECONOMICS AND MANAGEMENT" />
+    <node id="FACIAL RECOGNITION" />
+    <node id="MIGUEL" />
+    <node id="FULL-STACK DEVELOPMENT" />
+    <node id="LEO" />
+    <node id="BACHELOR OF MATHEMATICS AND COMPUTER SCIENCE" />
+    <node id="MODEL CALIBRATION" />
+    <node id="JUAN" />
+    <node id="BACHELOR OF TELEMATICS ENGINEERING" />
+    <node id="VAULT" />
+    <node id="VAGRANT" />
+    <node id="OPENCV" />
+    <node id="PYJWT" />
+    <node id="REQUESTS" />
+    <node id="HUGO" />
+    <node id="BACHELOR OF MATERIALS ENGINEERING" />
+    <node id="SEMANTIC SEGMENTATION" />
+    <node id="FRANCISCO" />
+    <node id="JUNIOR COMPUTER SCIENCE ENGINEER" />
+    <node id="MASTER OF INTELLIGENT INTERACTIVE SYSTEM" />
+    <node id="AWS SQS" />
+    <node id="ELASTIC LOAD BALANCING" />
+    <node id="HBASE" />
+    <node id="KYLIN" />
+    <node id="SNOWFLAKE" />
+    <edge source="MANUEL" target="AWS DEVOPS ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANUEL" target="SPANISH">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MANUEL" target="ENGLISH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="MASTER OF TELECOMMUNICATIONS ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANUEL" target="TERRAFORM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="AWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="GITHUB ACTIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MANUEL" target="GCP">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MANUEL" target="AWS LAMBDA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MANUEL" target="SECURITY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MANUEL" target="GO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="PYTHON">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="SCALA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANUEL" target="TYPESCRIPT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SPANISH" target="GONZALO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="DARIO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="THIAGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="LUIS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="LUCA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ENZO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="JAIME">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="JORGE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MARC">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MARIO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="JOSE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="NICOLAS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ADAM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="DYLAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="JESUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SPANISH" target="DANIEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MARTIN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="IAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SPANISH" target="IZAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MARCO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="OLIVER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ANTONIO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ERIC">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="NOAH">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="GUILLERMO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="LIAM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SPANISH" target="ALVARO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="SAMUEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="DAVID">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="BRUNO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="CARLOS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ALEJANDRO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="DIEGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ANGEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="LUCAS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="GABRIEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ADRIAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="IKER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="SERGIO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MATEO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="RODRIGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="PABLO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="GAEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="ALEX">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MARCOS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="HECTOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="MIGUEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="LEO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="JUAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="HUGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SPANISH" target="FRANCISCO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENGLISH" target="GONZALO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="DARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="THIAGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="LUIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="LUCA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ENZO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JAIME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MARC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MARIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JOSE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="NICOLAS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ADAM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENGLISH" target="DYLAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JESUS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="DANIEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="IZAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="OLIVER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ANTONIO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="NOAH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="PAU">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="GUILLERMO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ALVARO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENGLISH" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="DAVID">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="BRUNO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="CARLOS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ALEJANDRO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ANGEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="LUCAS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="GABRIEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ADRIAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="SERGIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MATEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="PABLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="GAEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENGLISH" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MARCOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="JUAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENGLISH" target="HUGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENGLISH" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MASTER OF TELECOMMUNICATIONS ENGINEERING" target="ADRIAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF TELECOMMUNICATIONS ENGINEERING" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TERRAFORM" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="DARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="THIAGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AWS" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="JAVIER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="DARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS LAMBDA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="GONZALO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="DARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="LUIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="JAIME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="MARIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="JOSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="NICOLAS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="ADAM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PYTHON" target="DYLAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="MARTIN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="MARCO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="JAVIER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="ANTONIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="ERIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="NOAH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="GUILLERMO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="ALVARO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="DIEGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="PYTHON" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="GABRIEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="ADRIAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="SERGIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="PABLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="GAEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="MARCOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="MIGUEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PYTHON" target="LEO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PYTHON" target="JUAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYTHON" target="HUGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SCALA" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SCALA" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SCALA" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SCALA" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SCALA" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="GONZALO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="MARIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="JOSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="PAU">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="GUILLERMO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="ALEJANDRO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="ANGEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="PABLO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="GAEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TYPESCRIPT" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="SOFTWARE ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="BUSINESS INTELLIGENCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GONZALO" target="SUPPLY CHAIN MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GONZALO" target="GALICIAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GONZALO" target="BACHELOR OF CIVIL ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GONZALO" target="MASTER OF LOGISTICS AND INTERNATIONAL TRADE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GONZALO" target="MONGODB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="POSTGRESQL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="AZURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="GIT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GONZALO" target="JAVASCRIPT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOFTWARE ENGINEER" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GALICIAN" target="MARIO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GALICIAN" target="JESUS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GALICIAN" target="NOAH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BACHELOR OF CIVIL ENGINEERING" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="THIAGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONGODB" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONGODB" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONGODB" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MONGODB" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONGODB" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="DARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="THIAGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="JAVIER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="PAU">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="BRUNO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="CARLOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="PABLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GIT" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GIT" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="JOSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="DYLAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="JAVIER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="PAU">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="GUILLERMO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="SAMUEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="ALEJANDRO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="ANGEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="PABLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="GAEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVASCRIPT" target="MIGUEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DARIO" target="SENIOR DATA ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DARIO" target="BUSINESS INTELLIGENCE DEVELOPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DARIO" target="BACHELOR OF MECHATRONICS ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DARIO" target="MASTER OF AI AND DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DARIO" target="AZURE SYNAPSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="AZURE DATA FACTORY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="AZURE FUNCTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="AZURE LOGIC APPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="DATABRICKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="AWS GLUE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="PYSPARK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="C#">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="SHELL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DARIO" target="VISUAL BASIC">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SENIOR DATA ENGINEER" target="JORGE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR DATA ENGINEER" target="SAMUEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR DATA ENGINEER" target="MATEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR DATA ENGINEER" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR DATA ENGINEER" target="ALEX">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AZURE SYNAPSE" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE SYNAPSE" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE SYNAPSE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DATA FACTORY" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE FUNCTIONS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE LOGIC APPS" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="THIAGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="LUIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATABRICKS" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS GLUE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYSPARK" target="JORGE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYSPARK" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYSPARK" target="ANTONIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PYSPARK" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C#" target="JOSE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C#" target="DYLAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C#" target="PAU">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C#" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C#" target="BRUNO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="C#" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C#" target="ALEJANDRO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C#" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C#" target="PABLO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C#" target="ALEX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SHELL" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHELL" target="ALVARO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SHELL" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SHELL" target="MATEO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SHELL" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="VISUAL BASIC" target="JOSE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="VISUAL BASIC" target="CARLOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="MACHINE LEARNING ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THIAGO" target="DATA ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="BACHELOR OF COMPUTER ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THIAGO" target="MASTER OF DATA SCIENCE AND ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI AGENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI GOVERNANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI MODEL DEPLOYMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI MODEL MONITORING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI SAFETY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AI SECURITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="APACHE HADOOP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="APACHE KAFKA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="APACHE SPARK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AZURE AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="AZURE MACHINE LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="CNN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="CLOUDSTACK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="COMPUTER VISION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="DATA AUGMENTATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="DEEP LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="DOCKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="EMBEDDINGS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="FINE-TUNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="GAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="GEN AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="GOOGLE CLOUD FUNCTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="GRAPH NEURAL NETWORKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="HYPERPARAMETER TUNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="IMAGE CLASSIFICATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="JUPYTER NOTEBOOKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="KAFKA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="KNOWLEDGE GRAPHS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="LANGCHAIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="LANGUAGE MODELS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="LLMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="LSTM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="NEO4J">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="NEURAL NETWORKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="NLP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="OCR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="PROMPT ENGINEERING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THIAGO" target="RAG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MACHINE LEARNING ENGINEER" target="ADAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MACHINE LEARNING ENGINEER" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA ENGINEER" target="MARTIN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA ENGINEER" target="IAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA ENGINEER" target="ERIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA ENGINEER" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="GUILLERMO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="SAMUEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="SERGIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="PABLO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="MIGUEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER ENGINEERING" target="FRANCISCO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI AGENTS" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI GOVERNANCE" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI GOVERNANCE" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL DEPLOYMENT" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL MONITORING" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL MONITORING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL MONITORING" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI MODEL MONITORING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI SECURITY" target="GAEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HADOOP" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE KAFKA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="SERGIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE SPARK" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE AI" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE AI" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE AI" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE AI" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE MACHINE LEARNING" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE MACHINE LEARNING" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE MACHINE LEARNING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE MACHINE LEARNING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CNN" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="ADAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPUTER VISION" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA AUGMENTATION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="LUIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="ALVARO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEEP LEARNING" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DOCKER" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DOCKER" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="CARLOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DOCKER" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DOCKER" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DOCKER" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EMBEDDINGS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINE-TUNING" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINE-TUNING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINE-TUNING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINE-TUNING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINE-TUNING" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GAN" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="ADAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GEN AI" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GEN AI" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GEN AI" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GEN AI" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GEN AI" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD FUNCTIONS" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD FUNCTIONS" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD FUNCTIONS" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GRAPH NEURAL NETWORKS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HYPERPARAMETER TUNING" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HYPERPARAMETER TUNING" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HYPERPARAMETER TUNING" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HYPERPARAMETER TUNING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="NICOLAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMAGE CLASSIFICATION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="MARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="BRUNO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUPYTER NOTEBOOKS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KAFKA" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KAFKA" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KAFKA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KNOWLEDGE GRAPHS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KNOWLEDGE GRAPHS" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KNOWLEDGE GRAPHS" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGCHAIN" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LANGUAGE MODELS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LLMS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LLMS" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LLMS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LLMS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LLMS" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LLMS" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LSTM" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEO4J" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEO4J" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEO4J" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEURAL NETWORKS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="MARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="ADAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NLP" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NLP" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NLP" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OCR" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OCR" target="BRUNO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="OCR" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="OCR" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OCR" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PROMPT ENGINEERING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RAG" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RAG" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RAG" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RAG" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LUIS" target="DATA SCIENTIST LEAD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="JAVA CONSULTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="SAP CONSULTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="BACHELOR OF TELECOMMUNICATION ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="BACHELOR OF ELECTRONIC ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="MASTER OF BIG DATA AND DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="MASTER OF BUSINESS ADMINISTRATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="DOCTORATE IN BIOMEDICAL SIGNAL PROCESSING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="ACTIVE LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="AWS S3">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="AWS SAGEMAKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="CAUSAL INFERENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MODEL EXPLAINABILITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MODEL COMPRESSION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MODEL OPTIMIZATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MODEL INTERPRETABILITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="SPARK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="TIME SERIES FORECASTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="ONNX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MLFLOW">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="PYCARET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="OPERATION RESEARCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUIS" target="MATLAB">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUIS" target="R">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ACTIVE LEARNING" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ACTIVE LEARNING" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ACTIVE LEARNING" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ACTIVE LEARNING" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ACTIVE LEARNING" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS S3" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS SAGEMAKER" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS SAGEMAKER" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS SAGEMAKER" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS SAGEMAKER" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAUSAL INFERENCE" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAUSAL INFERENCE" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL EXPLAINABILITY" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL COMPRESSION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL COMPRESSION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MODEL COMPRESSION" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL OPTIMIZATION" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL INTERPRETABILITY" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL INTERPRETABILITY" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL INTERPRETABILITY" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MODEL INTERPRETABILITY" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MODEL INTERPRETABILITY" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SPARK" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SPARK" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="HECTOR">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SPARK" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPARK" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TIME SERIES FORECASTING" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ONNX" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MLFLOW" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="NICOLAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MLFLOW" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MLFLOW" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MLFLOW" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MLFLOW" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATLAB" target="JAIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MATLAB" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATLAB" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATLAB" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATLAB" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATLAB" target="IKER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MATLAB" target="MARCOS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MATLAB" target="HUGO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="LUCA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R" target="JAIME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="R" target="NICOLAS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="MARTIN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="OLIVER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="ANTONIO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="ERIC">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R" target="DIEGO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="LUCAS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="R" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R" target="ADRIAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="R" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="R" target="HUGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUCA" target="DATA SCIENTIST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="RESEARCHER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="BACHELOR OF DIGITAL AND MULTIMEDIA TECHNOLOGY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUCA" target="MASTER OF BIG DATA ANALYTICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LUCA" target="AUDIO PROCESSING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="AZURE DEVOPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="DATA DRIFT DETECTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="DATA LAKE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="DELTA LAKE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="MAPREDUCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="REINFORCEMENT LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="SENTIMENT ANALYSIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="TRANSFER LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="VIDEO ANALYSIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCA" target="FEATURE ENGINEERING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="MARIO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="NICOLAS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="ADAM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="JESUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="LEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="HUGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA SCIENTIST" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA ANALYTICS" target="JAIME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA ANALYTICS" target="OLIVER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA ANALYTICS" target="LUCAS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA ANALYTICS" target="ADRIAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUDIO PROCESSING" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="NICOLAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="MARCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="CARLOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="ALEJANDRO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE DEVOPS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA DRIFT DETECTION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA DRIFT DETECTION" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA DRIFT DETECTION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="ALEX">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA LAKE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DELTA LAKE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MAPREDUCE" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MAPREDUCE" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MAPREDUCE" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MAPREDUCE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REINFORCEMENT LEARNING" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="MARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENTIMENT ANALYSIS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRANSFER LEARNING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRANSFER LEARNING" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="ENZO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEATURE ENGINEERING" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="SPECIALIST DATA SCIENTIST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENZO" target="SOFTWARE DEVELOPER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="MASTER OF DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENZO" target="BACHELOR OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGIES ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENZO" target="ANOMALY DETECTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="AMAZON ECS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="AMAZON S3">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="BIGQUERY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="CHATBOTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="GRAFANA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="MACHINE TRANSLATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="NEURAL ARCHITECTURE SEARCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="RECOMMENDATION SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="SELF-SUPERVISED LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="SPEECH-TO-TEXT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="TRANSFORMERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="TABLEAU PREP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="APACHE PARQUET">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="TEXT SUMMARIZATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="TEXT PROCESSING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="TEXT CLASSIFICATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="SQL OPTIMIZATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="REDSHIFT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="ELASTICSEARCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="DATA WAREHOUSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="DATA VERSIONING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ENZO" target="AWS REDSHIFT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="ADAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="PABLO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="GAEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SOFTWARE DEVELOPER" target="JUAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF DATA SCIENCE" target="NOAH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF DATA SCIENCE" target="SERGIO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF DATA SCIENCE" target="LEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANOMALY DETECTION" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ANOMALY DETECTION" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON ECS" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AMAZON ECS" target="DIEGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AMAZON ECS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="MARC">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AMAZON S3" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BIGQUERY" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BIGQUERY" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="DANIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CHATBOTS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="JAIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GRAFANA" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GRAFANA" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GRAFANA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MACHINE TRANSLATION" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RECOMMENDATION SYSTEMS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RECOMMENDATION SYSTEMS" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SELF-SUPERVISED LEARNING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SELF-SUPERVISED LEARNING" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRANSFORMERS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TRANSFORMERS" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TRANSFORMERS" target="DIEGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRANSFORMERS" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE PARQUET" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE PARQUET" target="GAEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TEXT SUMMARIZATION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT SUMMARIZATION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TEXT SUMMARIZATION" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT PROCESSING" target="MARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT PROCESSING" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT PROCESSING" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="MARIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TEXT CLASSIFICATION" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SQL OPTIMIZATION" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SQL OPTIMIZATION" target="ALEJANDRO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REDSHIFT" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="REDSHIFT" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="REDSHIFT" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ELASTICSEARCH" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ELASTICSEARCH" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA WAREHOUSE" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA WAREHOUSE" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA WAREHOUSE" target="HECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA WAREHOUSE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA VERSIONING" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA VERSIONING" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS REDSHIFT" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAIME" target="INTERN HYDROGEN TECHNOLOGIES ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAIME" target="PORTUGUESE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JAIME" target="BACHELOR OF INDUSTRIAL TECHNOLOGIES ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAIME" target="DIFFUSION MODELS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAIME" target="ICEBERG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAIME" target="RNN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAIME" target="STREAMLIT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DIFFUSION MODELS" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DIFFUSION MODELS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ICEBERG" target="NICOLAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ICEBERG" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ICEBERG" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ICEBERG" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RNN" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RNN" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RNN" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="NICOLAS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="OLIVER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="GAEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STREAMLIT" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JORGE" target="BUSINESS INTELLIGENCE CONSULTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JORGE" target="DATA SCIENTIST JUNIOR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JORGE" target="BACHELOR OF INDUSTRIAL ELECTRONIC AND AUTOMATIC ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JORGE" target="MASTER OF DATA SCIENCE AND AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JORGE" target="SQL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SQL" target="ANTONIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SQL" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SQL" target="GABRIEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SQL" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SQL" target="SERGIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SQL" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SQL" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARC" target="TECH DIRECTOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARC" target="SOLUTION ARCHITECT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARC" target="LEAD DATA ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARC" target="SENIOR BIG DATA ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARC" target="DATABASE ADMIN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="FRENCH">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MARC" target="AI HARDWARE OPTIMIZATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="AMAZON EKS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE CASSANDRA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE FLINK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE HIVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE NIFI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE PULSAR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="APACHE STORM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="AWS CLOUDFORMATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="AWS CODEDEPLOY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="AWS CLOUDTRAIL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARC" target="AWS DYNAMODB">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LEAD DATA ENGINEER" target="FRANCISCO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRENCH" target="MARIO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRENCH" target="IZAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRENCH" target="OLIVER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRENCH" target="CARLOS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRENCH" target="MATEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRENCH" target="MARCOS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRENCH" target="JUAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="FRENCH" target="HUGO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="APACHE CASSANDRA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE FLINK" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE FLINK" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HIVE" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE HIVE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="APACHE NIFI" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AWS CLOUDFORMATION" target="MARTIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS CLOUDFORMATION" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS CLOUDFORMATION" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARIO" target="FULL STACK DEVELOPER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARIO" target="BACHELOR OF COMPUTER SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARIO" target="MASTER OF DATA SCIENCE &amp; INNOVATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARIO" target="PHP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FULL STACK DEVELOPER" target="JOSE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FULL STACK DEVELOPER" target="ANGEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="ADAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="DANIEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="NOAH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="DAVID">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="ANGEL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="MATEO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BACHELOR OF COMPUTER SCIENCE" target="RODRIGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PHP" target="CARLOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOSE" target="SENIOR CONSULTANT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR CONSULTANT" target="PAU">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NICOLAS" target="BUSINESS ANALYST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NICOLAS" target="GERMAN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NICOLAS" target="MASTER OF BUSINESS ANALYTICS AND BIG DATA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NICOLAS" target="BACHELOR OF AEROSPACE ENGINEERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NICOLAS" target="MACHINE LEARNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BUSINESS ANALYST" target="MARCOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GERMAN" target="DYLAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GERMAN" target="MARTIN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="OLIVER">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="ERIC">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="GUILLERMO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="CARLOS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="LUCAS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GERMAN" target="GABRIEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GERMAN" target="PABLO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="GERMAN" target="MIGUEL">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MASTER OF BUSINESS ANALYTICS AND BIG DATA" target="ADAM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF AEROSPACE ENGINEERING" target="JAVIER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BACHELOR OF AEROSPACE ENGINEERING" target="MARCOS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MACHINE LEARNING" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ADAM" target="CORE ML">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ADAM" target="DATABASES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DYLAN" target="CONSULTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DYLAN" target="JAVA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DYLAN" target="ASP.NET">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DYLAN" target="FASTAPI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CONSULTANT" target="SAMUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CONSULTANT" target="MATEO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CONSULTANT" target="GAEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="DANIEL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JAVA" target="SAMUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="CARLOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVA" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="ADRIAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVA" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="PABLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVA" target="GAEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FASTAPI" target="MARCO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FASTAPI" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FASTAPI" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JESUS" target="MASTER OF BIG DATA &amp; DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JESUS" target="BACHELOR OF MATHEMATICS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BACHELOR OF MATHEMATICS" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF MATHEMATICS" target="LUCAS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DANIEL" target="LEAD DEVELOPER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DANIEL" target="CHATBOT DEVELOPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DANIEL" target="GOOGLE CLOUD RUN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LEAD DEVELOPER" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD RUN" target="GUILLERMO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD RUN" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARTIN" target="CATALAN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MARTIN" target="BACHELOR OF DATA ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARTIN" target="MASTER OF BIG DATA &amp; ANALYTICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARTIN" target="DATA MESH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARTIN" target="SYNTHETIC DATA GENERATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CATALAN" target="ERIC">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CATALAN" target="MARCOS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CATALAN" target="FRANCISCO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BACHELOR OF DATA ENGINEERING" target="ERIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA &amp; ANALYTICS" target="ERIC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATA MESH" target="ERIC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA MESH" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IAN" target="PARTNER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IAN" target="INTERN TEST ENGINEER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IAN" target="BACHELOR OF INDUSTRIAL ELECTRONIC ENGINEERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="IAN" target="DATA ENGINEERING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IAN" target="PANDAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IAN" target="POLARS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IAN" target="HEROKU">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PANDAS" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IZAN" target="UX DESIGNER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IZAN" target="WEB COMMUNICATION MANAGER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="BACHELOR OF SOCIAL COMMUNICATION AND JOURNALISM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IZAN" target="MASTER OF CORPORATE COMMUNICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IZAN" target="AGILE METHODOLOGIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="FIGMA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="UX DESIGN">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IZAN" target="ADOBE ILLUSTRATOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="MURAL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IZAN" target="POWERBI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IZAN" target="USER RESEARCH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="PROTOTYPING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IZAN" target="MIRO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="IZAN" target="ADOBE PHOTOSHOP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MARCO" target="DEVOPS ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCO" target="BACKEND DEVELOPER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="PROJECT MANAGER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARCO" target="MARKETING MANAGER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="AZURE KUBERNETES SERVICE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCO" target="HASHICORP NOMAD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCO" target="KUBERNETES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCO" target="PULUMI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCO" target="FLASK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="NUMPY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="PYTEST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="PYGAME">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="SCRAPY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCO" target="OH MY ZSH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BACKEND DEVELOPER" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE KUBERNETES SERVICE" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE KUBERNETES SERVICE" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KUBERNETES" target="JAVIER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KUBERNETES" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KUBERNETES" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KUBERNETES" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="KUBERNETES" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PULUMI" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FLASK" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NUMPY" target="NOAH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NUMPY" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="PYTEST" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="OLIVER" target="JUNIOR CONSULTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OLIVER" target="RESEARCH ASSISTANT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OLIVER" target="BACHELOR OF PHYSICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RESEARCH ASSISTANT" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BACHELOR OF PHYSICS" target="ANTONIO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF PHYSICS" target="LIAM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BACHELOR OF PHYSICS" target="HUGO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVIER" target="DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAVIER" target="OWNER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVIER" target="LINUX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAVIER" target="AIRFLOW">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JAVIER" target="TEXT TO SPEECH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JAVIER" target="SPEECH TO TEXT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AIRFLOW" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AIRFLOW" target="JUAN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ANTONIO" target="SERVICE MANAGER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANTONIO" target="BIG DATA ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ANTONIO" target="FUNCTIONAL ANALYST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ANTONIO" target="MASTER OF INFORMATION AND COMMUNICATION SYSTEMS MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANTONIO" target="MASTER OF BIG DATA AND BUSINESS ANALYTICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANTONIO" target="BASH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ANTONIO" target="COBOL">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NOAH" target="ML_ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="DATA_SCIENTIST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NOAH" target="BAYESIAN NETWORKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="EXPLAINABLE AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="LOG PARSING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="MULTI-TASK LEARNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="OBJECT DETECTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="WEIGHTS &amp; BIASES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="BEAUTIFULSOUP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="BOKEH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="JUPYTER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="KERAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NOAH" target="MATPLOTLIB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BAYESIAN NETWORKS" target="DIEGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BAYESIAN NETWORKS" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EXPLAINABLE AI" target="LIAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EXPLAINABLE AI" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="EXPLAINABLE AI" target="GABRIEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OBJECT DETECTION" target="ALVARO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="OBJECT DETECTION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="BACKEND AND DEVOPS ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="FULL STACK ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="FULL STACK DEVELOPMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="BACKEND DEVELOPMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="API DEVELOPMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="GOOGLE CLOUD PLATFORM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="DEVOPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="DEVSECOPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="REST APIS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GUILLERMO" target="INFRASTRUCTURE AS CODE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BACKEND AND DEVOPS ENGINEER" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FULL STACK ENGINEER" target="MIGUEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACKEND DEVELOPMENT" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="API DEVELOPMENT" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GOOGLE CLOUD PLATFORM" target="MIGUEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DEVOPS" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DEVSECOPS" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REST APIS" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INFRASTRUCTURE AS CODE" target="MIGUEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LIAM" target="MASTER OF STATISTICS FOR DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIAM" target="FEATURE STORES">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LIAM" target="C++">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FEATURE STORES" target="MATEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FEATURE STORES" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C++" target="ALVARO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C++" target="GAEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ALVARO" target="SENIOR MACHINE LEARNING ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ALVARO" target="SENIOR DATA SCIENTIST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ALVARO" target="MASTER OF BIG DATA &amp; BUSINESS ANALYTICS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ALVARO" target="DOCTORATE IN ENGINEERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ALVARO" target="MASTER OF SCIENCE &amp; TECHNOLOGY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ALVARO" target="AUTOENCODERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ALVARO" target="PROMETHEUS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ALVARO" target="INFORMATICA">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SENIOR DATA SCIENTIST" target="GABRIEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR DATA SCIENTIST" target="MARCOS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA &amp; BUSINESS ANALYTICS" target="HUGO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTOENCODERS" target="IKER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTOENCODERS" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INFORMATICA" target="BRUNO">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INFORMATICA" target="LUCAS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INFORMATICA" target="GAEL">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SAMUEL" target="PROGRAMMER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SAMUEL" target="AZURE COGNITIVE SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="PROGRAMMER" target="MATEO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="PROGRAMMER" target="LEO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AZURE COGNITIVE SERVICES" target="MARCOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DAVID" target="DEVELOPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DAVID" target="REACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DAVID" target="JEST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DAVID" target="VITE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DAVID" target="REACT-HOOK-FORM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DAVID" target="LODASH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DAVID" target="REACT-ROUTER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="REACT" target="ANGEL">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="JEST" target="ANGEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LODASH" target="ANGEL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BRUNO" target="MANAGER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BRUNO" target="CLOUDFORMATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CARLOS" target="WEB DEVELOPER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CARLOS" target="MICROSOFT POWER BI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CARLOS" target="SAFE 5">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CARLOS" target="GITHUB">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CARLOS" target="PHOTOSHOP">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CARLOS" target="UNITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CARLOS" target="VUEJS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CARLOS" target="XML">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CARLOS" target="MICROSOFT SQL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CARLOS" target="ORACLE SQL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WEB DEVELOPER" target="ANGEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WEB DEVELOPER" target="IKER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ALEJANDRO" target="SENIOR ANDROID DEVELOPER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ALEJANDRO" target="SENIOR NET DEVELOPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DIEGO" target="SOFTWARE ENGINEER INTERN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DIEGO" target="UNIVERSITY LECTURER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DIEGO" target="MASTER OF ARTIFICIAL INTELLIGENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DIEGO" target="INSTANCE SEGMENTATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INSTANCE SEGMENTATION" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ANGEL" target="FRONTEND SOFTWARE ENGINEER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="EXPRESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="NEXT.JS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="ANGEL" target="NODE.JS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="REDUX">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="ZUSTAND">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="GRAPHQL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="MATERIAL-UI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ANGEL" target="REACT HOOK FORM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LUCAS" target="MACHINE LEARNING ENGINEER TRAINEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LUCAS" target="STUDENT INTERN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LUCAS" target="C">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="ML ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="DATA ANALYST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="BACHELOR OF BUSINESS ADMINISTRATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GABRIEL" target="MASTER OF BUSINESS CONSULTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GABRIEL" target="AWS CLOUDFRONT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="AWS ELASTIC BEANSTALK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="AWS RDS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="ELASTIC BEANSTALK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GABRIEL" target="SOFTWARE DEVELOPMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="DATA ANALYST" target="IKER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="DATA ANALYST" target="HUGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS RDS" target="RODRIGO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AWS RDS" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ELASTIC BEANSTALK" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ADRIAN" target="TELECOMMUNICATIONS ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ADRIAN" target="BACHELOR OF TELECOMMUNICATIONS ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BACHELOR OF TELECOMMUNICATIONS ENGINEERING" target="IKER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IKER" target="ITALIAN">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="IKER" target="ANSIBLE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IKER" target="GROOVY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ITALIAN" target="ALEX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SERGIO" target="SOLUTIONS ARCHITECT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SERGIO" target="SENIOR BIG DATA DEVELOPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SERGIO" target="BIG DATA MASTER TEACHER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SERGIO" target="BIG DATA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SERGIO" target="MICROSOFT AZURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MATEO" target="ANALYST PROGRAMMER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATEO" target="APACHE PIG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATEO" target="IMPALA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATEO" target="PRESTO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATEO" target="APACHE AVRO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MATEO" target="KOTLIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="IMPALA" target="FRANCISCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="MASTER OF BIG DATA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RODRIGO" target="AWS API GATEWAY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="AWS EC2">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="AWS EMR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="JENKINS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="CI/CD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RODRIGO" target="UNIX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MASTER OF BIG DATA" target="LEO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GAEL" target="BACHELOR OF SOFTWARE ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ALEX" target="AZURE DATALAKE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARCOS" target="SIMULATION ENGINEER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARCOS" target="FORTRAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HECTOR" target="DIRECTOR OF ANALYSIS AND INVESTMENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HECTOR" target="SALES DIRECTOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HECTOR" target="CONTROLLER AND PURCHASING RESPONSIBLE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HECTOR" target="TREASURY AND CAPITAL MARKETS ANALYST">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HECTOR" target="EQUITY AND DERIVATIVES TRADER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HECTOR" target="COMMERCIAL ADVISOR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HECTOR" target="MASTER OF BUSINESS INTELLIGENCE AND BIG DATA SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HECTOR" target="MASTER OF MANAGEMENT OF FINANCIAL INSTITUTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HECTOR" target="MASTER OF STOCK AND FINANCIAL MARKETS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HECTOR" target="BACHELOR OF ECONOMICS AND MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HECTOR" target="FACIAL RECOGNITION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MIGUEL" target="FULL-STACK DEVELOPMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LEO" target="BACHELOR OF MATHEMATICS AND COMPUTER SCIENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LEO" target="MODEL CALIBRATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JUAN" target="BACHELOR OF TELEMATICS ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JUAN" target="VAULT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUAN" target="VAGRANT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUAN" target="OPENCV">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUAN" target="PYJWT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JUAN" target="REQUESTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HUGO" target="BACHELOR OF MATERIALS ENGINEERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HUGO" target="SEMANTIC SEGMENTATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="JUNIOR COMPUTER SCIENCE ENGINEER">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="MASTER OF INTELLIGENT INTERACTIVE SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="AWS SQS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="ELASTIC LOAD BALANCING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="HBASE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="KYLIN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FRANCISCO" target="SNOWFLAKE">
+      <data key="d0">8.0</data>
+    </edge>
+  </graph>
+</graphml>

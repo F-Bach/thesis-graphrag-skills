@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "data_scientist": "2 years",
+    "web_developer": "1 year",
+    "data_analyst": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Telecommunications Engineering",
+    "Master of Telecommunications Engineering"
+  ],
+  "final name": "Iker",
+  "concatenated_summary": "Name: Iker | Experience: data_scientist: 2 years, web_developer: 1 year, data_analyst: 1 year | Languages: English C1, Spanish Native, Italian A1 | Education: Bachelor of Telecommunications Engineering, Master of Telecommunications Engineering | Technical Skills: Jupyter Notebooks, PySpark, DataBricks, Kubernetes, MLFlow, Machine Learning, Model Optimization, AI Model Monitoring, Grafana, Computer Vision, Deep Learning, SQL, MongoDB, Ansible, Terraform, Image Classification, Time Series Forecasting, Anomaly Detection, Audio Processing, Autoencoders, Data Augmentation | Programming Languages: Java, Python, R, Groovy, MATLAB | Programming Language Packages: Spring Boot (Java), Lombok (Java), Apache Kafka (Java), Hibernate (Java), JUnit (Java), Mockito (Java), Log4j (Java), Spring (Java), Maven (Java), Django (Python), FastAPI (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), OpenCV (Python), Pillow (Python), Plotly (Python), PyPDF2 (Python), PySpark (Python), Pytest (Python), Pytest-django (Python), Requests (Python), Scikit-image (Python), Scikit-learn (Python), Seaborn (Python), Statsmodels (Python), TensorFlow (Python), XGBoost (Python), BeautifulSoup (Python), caret (R), dplyr (R), data.table (R), caretEnsemble (R), e1071 (R), ggplot2 (R), plotly (R), randomForest (R), Gradle (Groovy), Image Processing Toolbox (MATLAB), Simulink (MATLAB), MATLAB Compiler (MATLAB), Symbolic Math Toolbox (MATLAB)"
+}

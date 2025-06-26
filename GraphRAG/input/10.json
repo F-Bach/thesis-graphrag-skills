@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "specialist_data_scientist": "5 years",
+    "software_developer": "1 year"
+  },
+  "processed_education": [
+    "Master of Data Science",
+    "Bachelor of Computer Science and Information Technologies Engineering"
+  ],
+  "final name": "Enzo",
+  "concatenated_summary": "Name: Enzo | Experience: specialist_data_scientist: 5 years, software_developer: 1 year | Languages: English C2, Spanish Native | Education: Master of Data Science, Bachelor of Computer Science and Information Technologies Engineering | Technical Skills: Anomaly Detection, AI Model Monitoring, AI Model Deployment, Amazon ECS, Amazon S3, Apache Hadoop, Apache Spark, AWS, Apache Kafka, AWS Lambda, AWS SageMaker, BigQuery, Chatbots, Fine-tuning, Gen AI, Grafana, Graph Neural Networks, Jupyter Notebooks, LLMs, LSTM, Machine Translation, MongoDB, Neural Architecture Search, Neural Networks, NLP, Recommendation Systems, Reinforcement Learning, Sentiment Analysis, Self-Supervised Learning, Speech-to-Text, Spark, Transformers, Tableau Prep, Feature Engineering, Apache Parquet, Time Series Forecasting, Text Summarization, Text Processing, Text Classification, SQL Optimization, Redshift, Language Models, Neo4j, Embeddings, Elasticsearch, Docker, DataBricks, Data Warehouse, Data Versioning, CNN, AWS S3, AWS Redshift | Programming Languages: Java, Julia, MATLAB, Python, R, Scala, Shell, JavaScript | Programming Language Packages: Clustering.jl (Julia), DataFrames.jl (Julia), DifferentialEquations.jl (Julia), DataFramesMeta.jl (Julia), Query.jl (Julia), Turing.jl (Julia), Deep Learning Toolbox (MATLAB), Computer Vision Toolbox (MATLAB), Image Processing Toolbox (MATLAB), MATLAB Compiler (MATLAB), MATLAB Report Generator (MATLAB), Statistics and Machine Learning Toolbox (MATLAB), Jupyter (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), Plotly (Python), PySpark (Python), Pytest (Python), PyTorch (Python), Scikit-learn (Python), Scikit-image (Python), SymPy (Python), Statsmodels (Python), XGBoost (Python), TensorFlow (Python), SQLAlchemy (Python), OpenCV (Python), Keras (Python), Flask (Python), FastAPI (Python), BeautifulSoup (Python), Scrapy (Python), Seaborn (Python), dplyr (R), ggplot2 (R), plotly (R), randomForest (R), Tidyverse (R), Angular (JavaScript), Babel (JavaScript), JQuery (JavaScript), Node.js (JavaScript), Redux (JavaScript), React (JavaScript)"
+}

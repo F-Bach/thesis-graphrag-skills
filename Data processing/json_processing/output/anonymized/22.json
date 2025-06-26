@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "senior_data_scientist": "2 years",
+    "business_analyst": "2 years",
+    "simulation_engineer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Aerospace Engineering"
+  ],
+  "final name": "Marcos",
+  "concatenated_summary": "Name: Marcos | Experience: senior_data_scientist: 2 years, business_analyst: 2 years, simulation_engineer: 1 year | Languages: Catalan Native, Spanish Native, English C2, French A1 | Education: Bachelor of Aerospace Engineering | Technical Skills: AI Governance, AI Agents, AI Model Deployment, AI Model Monitoring, Apache Spark, Azure AI, Azure Cognitive Services, Azure, Azure Functions, Azure Kubernetes Service, Azure Machine Learning, Chatbots, Data Augmentation, Data Drift Detection, Data Warehouse, DataBricks, Delta Lake, Deep Learning, Docker, Embeddings, Fine-tuning, Gen AI, Jupyter Notebooks, Kubernetes, LangChain, Language Models, LLMs, LSTM, Machine Translation, Model Optimization, Neural Networks, NLP, OCR, RAG, Prompt Engineering, RNN, Spark, Text Classification, Text Processing, Transformers, MLFlow, Feature Stores, Streamlit | Programming Languages: Python, Fortran, Scala, MATLAB | Programming Language Packages: BeautifulSoup (Python), FastAPI (Python), Flask (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), PySpark (Python), Requests (Python), Scikit-learn (Python), Scrapy (Python), Seaborn (Python), Statsmodels (Python), SymPy (Python), SQLAlchemy (Python), TensorFlow (Python), XGBoost (Python), transformers (Python), openai (Python), HDF5 (Fortran), Spark MLlib (Scala), Simulink (MATLAB), Deep Learning Toolbox (MATLAB)"
+}

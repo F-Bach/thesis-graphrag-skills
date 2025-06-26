@@ -1,0 +1,187 @@
+### LLM settings ###
+models:
+  default_chat_model:
+    type: azure_openai_chat
+    api_key: ${GRAPHRAG_API_KEY}
+    model: gpt-4o
+    deployment_name: gpt-4o
+    api_base: https://genai-nexus.api.corpinter.net/apikey/
+    api_version: "2024-02-01"
+    model_supports_json: true
+    async_mode: asyncio
+    concurrent_requests: 25
+    max_retries: -1
+    tokens_per_minute: 0
+    requests_per_minute: 0
+
+  default_embedding_model:
+    type: azure_openai_embedding
+    api_key: ${GRAPHRAG_API_KEY_ADA}
+    model: text-embedding-ada-002
+    deployment_name: text-embedding-ada-002
+    api_base: https://genai-nexus.api.corpinter.net/apikey/
+    api_version: "2023-07-01-preview"
+    async_mode: asyncio
+    concurrent_requests: 25
+    max_retries: -1
+    tokens_per_minute: 0
+    requests_per_minute: 0
+
+### Input settings ###
+input:
+  type: file
+  file_type: json 
+  base_dir: "input"
+  title_column: "final name"
+  text_column: "concatenated_summary"
+
+chunks:
+  size: 400
+  overlap: 50
+  group_by_columns: [id]
+
+### Storage settings ###
+cache:
+  type: file
+  base_dir: "cache"
+
+reporting:
+  type: file
+  base_dir: "logs"
+
+storage:
+  type: file
+  base_dir: "output"
+
+vector_store:
+  default_vector_store:
+    type: lancedb
+    db_uri: "output/lancedb"
+    container_name: default
+    overwrite: true
+
+### Workflow settings ###
+skip_workflows: []
+
+# Enhanced entity extraction with your custom prompt
+entity_resolution:
+  enabled: true
+  similarity_threshold: 0.7  # Adjust based on your needs
+  method: "embedding_similarity" 
+
+# Modify your entity_extraction section
+entity_extraction:
+  model_id: default_chat_model
+  prompt: "prompts/entity_extraction.txt"
+  entity_types: [name, experience, languages, education, technical skills, programming languages]
+  max_gleanings: 1
+  # Add validation parameters
+  min_entity_name_length: 3
+  exclude_patterns: ["desconocido", "unknown", "n/a", "tbd", "pending", "various", "unknown person", "mercedes-benz"]
+
+# Enhanced graph extraction using extract_graph.txt
+extract_graph:
+  model_id: default_chat_model
+  prompt: "prompts/extract_graph.txt"
+  entity_types: [name, experience, languages, education, technical skills, programming languages]
+  max_gleanings: 1
+
+summarize_descriptions:
+  model_id: default_chat_model
+  prompt: "prompts/summarize_descriptions.txt"
+  max_length: 500
+  max_input_length: 8000
+
+# Enhanced claim extraction (now enabled with your prompt)
+claim_extraction:
+  enabled: true
+  model_id: default_chat_model
+  prompt: "prompts/extract_claims.txt"
+  description: "Any claims or facts that could be relevant to information discovery."
+  max_gleanings: 1
+
+# Enhanced community reports with separate graph and text prompts
+community_reports:
+  model_id: default_chat_model
+  graph_prompt: "prompts/community_report_graph.txt"
+  text_prompt: "prompts/community_report_text.txt"
+  max_length: 2000
+  max_input_length: 8000
+
+cluster_graph:
+  max_cluster_size: 10
+
+# Enhanced embedding configuration
+embed_text:
+  model_id: default_embedding_model
+  vector_store_id: default_vector_store
+
+embed_graph:
+  enabled: false
+
+umap:
+  enabled: false
+
+snapshots:
+  graphml: true
+  raw_entities: false
+  top_level_nodes: false
+  embeddings: false
+  transient: false
+
+### Enhanced Query settings ###
+# All search methods now use their specific prompt files
+
+local_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/local_search_system_prompt.txt"
+  text_unit_prop: 0.5
+  community_prop: 0.1
+  conversation_history_max_turns: 5
+  top_k_mapped_entities: 10
+  top_k_relationships: 10
+  max_tokens: 12000
+
+global_search:
+  chat_model_id: default_chat_model
+  map_prompt: "prompts/global_search_map_system_prompt.txt"
+  reduce_prompt: "prompts/global_search_reduce_system_prompt.txt"
+  knowledge_prompt: "prompts/global_search_knowledge_system_prompt.txt"
+  max_tokens: 12000
+  data_max_tokens: 12000
+  map_max_tokens: 1000
+  reduce_max_tokens: 2000
+  concurrency: 32
+
+# Enhanced drift search with reduce prompt
+drift_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/drift_search_system_prompt.txt"
+  reduce_prompt: "prompts/drift_reduce_prompt.txt"
+
+# Added basic search configuration
+basic_search:
+  chat_model_id: default_chat_model
+  embedding_model_id: default_embedding_model
+  prompt: "prompts/basic_search_system_prompt.txt"
+
+# Optional: Question generation (if you plan to use this feature)
+question_generation:
+  model_id: default_chat_model
+  prompt: "prompts/question_gen_system_prompt.txt"
+
+### Additional optimizations ###
+# Enhanced parallelization settings
+parallelization:
+  stagger: 0.3
+  num_threads: 25
+
+
+# Graph pruning for optimization (optional)
+prune_graph:
+  min_node_freq: 2
+  min_edge_weight_pct: 0.1
+  remove_ego_nodes: false
+  lcc_only: false
