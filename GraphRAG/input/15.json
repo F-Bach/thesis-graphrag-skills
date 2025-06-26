@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "machine_learning_engineer": "5 years",
+    "data_engineer": "2 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Engineering",
+    "Master of Data Science and Engineering"
+  ],
+  "final name": "Thiago",
+  "concatenated_summary": "Name: Thiago | Experience: machine_learning_engineer: 5 years, data_engineer: 2 years | Languages: Spanish Native, English C1 | Education: Bachelor of Computer Engineering, Master of Data Science and Engineering | Technical Skills: AI Agents, AI Governance, AI Model Deployment, AI Model Monitoring, AI Safety, AI Security, Apache Hadoop, Apache Kafka, Apache Spark, AWS, Azure, Azure AI, Azure Machine Learning, CNN, CloudStack, Computer Vision, Data Augmentation, DataBricks, Deep Learning, Docker, Embeddings, Fine-tuning, GAN, Gen AI, Google Cloud Functions, Graph Neural Networks, Hyperparameter Tuning, Image Classification, Jupyter Notebooks, Kafka, Knowledge Graphs, LangChain, Language Models, LLMs, LSTM, MongoDB, Neo4j, Neural Networks, NLP, OCR, Prompt Engineering, RAG, Reinforcement Learning, Sentiment Analysis, Splunk, Spark, SQL Optimization, Text Processing, Time Series Forecasting, Transformers, Transfer Learning, Streamlit, MLFlow, Redis, Databases, OracleSQL, Big Data Systems, API, AI  systems architecture, Linux, NoSQL, Cloud Environments, Cloud Deployment, Data analysis, Data visualization, AI Fairness | Programming Languages: C, C++, Java, JavaScript, MATLAB, Python, R, Shell | Programming Language Packages: Angular (JavaScript), React (JavaScript)"
+}

@@ -1,0 +1,74 @@
+-Goal-
+Given a text document of a resume and a list of entity types, identify all entities of the following types: [name, experience, languages, education, technical skills, programming languages]. Extract comprehensive information about each entity.
+
+-Steps-
+1. Identify all entities of the specified types. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized and STANDARDIZED (see standardization rules below)
+- entity_type: One of [name, tech_skills, programming_languages, position, language, degree]
+- entity_description: A comprehensive description of the entity and its context within the document
+
+ENTITY NAME STANDARDIZATION RULES:
+- Remove all apostrophes (') from entity names: "O'Connor" → "OCONNOR"
+- Remove all quotation marks (¨, ", ") from entity names
+- Remove all accents and special characters: "García" → "GARCIA", "Müller" → "MULLER"
+- Convert to uppercase: "john doe" → "JOHN DOE"
+- Remove extra spaces and normalize spacing: "John  Doe" → "JOHN DOE"
+- Fix common typos and normalize variations of the same name
+- Treat variations like "Jr.", "Sr.", "III" as part of the same standardized name
+
+IMPORTANT VALIDATION RULES:
+1. ONLY extract entities whose names exactly match or are clear variations of names found in the input data.
+2. DO NOT extract entities with generic, placeholder, or example names: "unknown", "N/A", "not specified", "TBD", "pending", "various", "multiple", "NAME1", "NAME2", "COMPANY", "ORGANIZATION", "INSTITUTION", "EMPLOYEE", "MANAGER", "CLIENT", "CUSTOMER", "USER", "JOHN DOE", "JANE SMITH", or any similar non-specific or example term.
+3. If the input contains a placeholder, generic, or template value (such as "NAME1", "COMPANY", etc.), do NOT extract it as an entity.
+4. DEDUPLICATION: If you find multiple references to the same entity, consolidate them into one entity using the standardized name format.
+
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are clearly related to each other.
+For each pair of related entities, extract the following information:
+- source_entity: The standardized name of the source entity, as identified in step 1.
+- target_entity: The standardized name of the target entity, as identified in step 1.
+- relationship_description: Explanation of the relationship between the two entities.
+- relationship_strength: A numerical score indicating the strength of the relationship between the source entity and target entity.
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return the output in English as a single list of all entities and relationships identified in steps 1 and 2. Use {record_delimiter} as the list delimiter.
+
+4. Conclude the output with {completion_delimiter}.
+
+######################
+-Examples-
+######################
+Example 1:
+Entity_types: [name, experience, languages, education, technical skills, programming languages]
+Text:
+final name: JOHN DOE. email: john.doe@email.com. tech_skills: Data Engineering, Azure. programming_languages: Python, SQL. position: Senior Data Engineer. degree: Bachelor of Computer Science.
+######################
+Output:
+("entity"{tuple_delimiter}"JOHN DOE"{tuple_delimiter}"name"{tuple_delimiter}"JOHN DOE is a person identified in the resume with email john.doe@email.com"){record_delimiter}
+("entity"{tuple_delimiter}"DATA ENGINEERING"{tuple_delimiter}"tech_skills"{tuple_delimiter}"Data Engineering is a technical skill possessed by JOHN DOE"){record_delimiter}
+("entity"{tuple_delimiter}"AZURE"{tuple_delimiter}"tech_skills"{tuple_delimiter}"Azure is a cloud platform technical skill possessed by JOHN DOE"){record_delimiter}
+("entity"{tuple_delimiter}"PYTHON"{tuple_delimiter}"programming_languages"{tuple_delimiter}"Python is a programming language known by JOHN DOE"){record_delimiter}
+("entity"{tuple_delimiter}"SQL"{tuple_delimiter}"programming_languages"{tuple_delimiter}"SQL is a programming language known by JOHN DOE"){record_delimiter}
+("entity"{tuple_delimiter}"SENIOR DATA ENGINEER"{tuple_delimiter}"position"{tuple_delimiter}"Senior Data Engineer is the job position held by JOHN DOE"){record_delimiter}
+("entity"{tuple_delimiter}"BACHELOR OF COMPUTER SCIENCE"{tuple_delimiter}"degree"{tuple_delimiter}"Bachelor of Computer Science is the educational degree obtained by JOHN DOE"){record_delimiter}
+("relationship"{tuple_delimiter}"JOHN DOE"{tuple_delimiter}"DATA ENGINEERING"{tuple_delimiter}"JOHN DOE possesses Data Engineering as a technical skill"{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"JOHN DOE"{tuple_delimiter}"PYTHON"{tuple_delimiter}"JOHN DOE knows Python programming language"{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"JOHN DOE"{tuple_delimiter}"SENIOR DATA ENGINEER"{tuple_delimiter}"JOHN DOE holds the position of Senior Data Engineer"{tuple_delimiter}10){completion_delimiter}
+
+Example 2 (Negative Case):
+Entity_types: [name, experience, languages, education, technical skills, programming languages]
+Text:
+final name: NAME1 . email: EMAIL. tech_skills: Software Developer.
+######################
+Output:
+(No entities should be extracted, as "NAME1" is a placeholder.)
+{completion_delimiter}
+
+######################
+-Real Data-
+######################
+Entity_types: [name, experience, languages, education, technical skills, programming languages]
+Text: {input_text}
+######################
+Output:

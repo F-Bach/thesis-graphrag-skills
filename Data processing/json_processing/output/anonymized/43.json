@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "senior_data_engineer": "11 years",
+    "programmer": "2 years",
+    "consultant": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Computer Engineering"
+  ],
+  "final name": "Samuel",
+  "concatenated_summary": "Name: Samuel | Experience: senior_data_engineer: 11 years, programmer: 2 years, consultant: 1 year | Languages: English C1, Spanish Native | Education: Bachelor of Computer Engineering | Technical Skills: Terraform, Azure DevOps, Azure, Azure Functions, Azure Data Factory, Jupyter Notebooks, Apache Spark, Azure Synapse, Azure Cognitive Services, Chatbots, Data Lake, Data Warehouse, Delta Lake, Docker, Embeddings, Gen AI, Grafana, RAG | Programming Languages: C#, Java, Python, Scala, Shell, R, JavaScript | Programming Language Packages: "
+}

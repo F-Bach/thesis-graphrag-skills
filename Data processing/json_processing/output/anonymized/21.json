@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "software_engineer": "2 years",
+    "business_intelligence": "1 year",
+    "supply_chain_management": "3 years"
+  },
+  "processed_education": [
+    "Bachelor of Civil Engineering",
+    "Master of Logistics and International Trade"
+  ],
+  "final name": "Gonzalo",
+  "concatenated_summary": "Name: Gonzalo | Experience: software_engineer: 2 years, business_intelligence: 1 year, supply_chain_management: 3 years | Languages: Spanish Native, Galician Native, English B2 | Education: Bachelor of Civil Engineering, Master of Logistics and International Trade | Technical Skills: MongoDB, PostgreSQL, Azure, Git | Programming Languages: JavaScript, Python, TypeScript | Programming Language Packages: Chart.js (JavaScript), Jest (JavaScript), Lodash (JavaScript), Meteor (JavaScript), Moment.js (JavaScript), Next.js (JavaScript), Node.js (JavaScript), React (JavaScript), Redux (JavaScript), RxJS (JavaScript), Vue.js (JavaScript), Webpack (JavaScript), Zustand (JavaScript), Express (JavaScript), FastAPI (Python), Pytest (Python), GraphQL (TypeScript), Formik (TypeScript), Joi (TypeScript), Material-UI (TypeScript), NestJS (TypeScript), Next.js (TypeScript), React (TypeScript), React Hook Form (TypeScript), TypeORM (TypeScript), ts-jest (TypeScript), Vue.js (TypeScript)"
+}

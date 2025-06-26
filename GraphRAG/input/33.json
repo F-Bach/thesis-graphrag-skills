@@ -1,0 +1,10 @@
+{
+  "processed_experience": {
+    "software_developer": "4 years"
+  },
+  "processed_education": [
+    "Bachelor of Telematics Engineering"
+  ],
+  "final name": "Juan",
+  "concatenated_summary": "Name: Juan | Experience: software_developer: 4 years | Languages: English B2, Spanish Native, French A1 | Education: Bachelor of Telematics Engineering | Technical Skills: Airflow, Docker, Elasticsearch, MongoDB, Azure DevOps, Apache Kafka, Apache NiFi, Azure, DataBricks, Grafana, Kafka, LangChain, RAG, Vault, Vagrant | Programming Languages: Python, Shell | Programming Language Packages: FastAPI (Python), Flask (Python), NumPy (Python), OpenCV (Python), Pandas (Python), PyJWT (Python), Pytest (Python), Requests (Python)"
+}

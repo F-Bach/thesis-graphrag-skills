@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "backend_and_devops_engineer": "1 year",
+    "full_stack_engineer": "3 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Engineering"
+  ],
+  "final name": "Guillermo",
+  "concatenated_summary": "Name: Guillermo | Experience: backend_and_devops_engineer: 1 year, full_stack_engineer: 3 years | Languages: Spanish Native, English C1, German A1 | Education: Bachelor of Computer Engineering | Technical Skills: AI Agents, Terraform, LLMs, Google Cloud Run, Google Cloud Functions, Gen AI, Docker, DataBricks, Azure Functions, Azure AI, Azure, Full-Stack Development, Backend Development, API Development, Google Cloud Platform, Git, DevOps, DevSecOps, REST APIs, Infrastructure as Code | Programming Languages: Python, TypeScript, JavaScript | Programming Language Packages: Django (Python), FastAPI (Python), Flask (Python), Jupyter (Python), Pandas (Python), Pytest (Python), Pytest-django (Python), Pytest-flask (Python), Requests (Python), SQLAlchemy (Python), Pydantic (Python), GraphQL (TypeScript), Vue.js (TypeScript), React (TypeScript), Vue.js (JavaScript), Node.js (JavaScript), React (JavaScript)"
+}

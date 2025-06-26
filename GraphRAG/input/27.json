@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "data_science": "4 years",
+    "owner": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Aerospace Engineering"
+  ],
+  "final name": "Javier",
+  "concatenated_summary": "Name: Javier | Experience: data_science: 4 years, owner: 1 year | Languages: English C1 | Education: Bachelor of Aerospace Engineering | Technical Skills: AWS, Azure, linux, RAG, Azure Data Factory, Airflow, Text-to-Speech, Terraform, Spark, Speech-to-Text, Redshift, Prompt Engineering, NLP, MongoDB, LLMs, Kubernetes, Jupyter Notebooks, Grafana, Embeddings, Elasticsearch, Docker, DataBricks, Chatbots | Programming Languages: Python, JavaScript | Programming Language Packages: FastAPI (Python), Flask (Python), Keras (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Scikit-learn (Python), Pytest (Python), PySpark (Python), PyJWT (Python), PyPDF2 (Python), Jupyter (Python), Dash (Python), Plotly (Python), XGBoost (Python), Angular (JavaScript)"
+}

@@ -1,0 +1,14 @@
+{
+  "processed_experience": {
+    "service_manager": "11 years",
+    "big_data_engineer": "6 years",
+    "functional_analyst": "19 years"
+  },
+  "processed_education": [
+    "Bachelor of Physics",
+    "Master of Information and Communication Systems Management",
+    "Master of Big Data and Business Analytics"
+  ],
+  "final name": "Antonio",
+  "concatenated_summary": "Name: Antonio | Experience: service_manager: 11 years, big_data_engineer: 6 years, functional_analyst: 19 years | Languages: English B2, Spanish Native | Education: Bachelor of Physics, Master of Information and Communication Systems Management, Master of Big Data and Business Analytics | Technical Skills: SQL, Phyton, Data Lake, Delta Lake, Jupyter Notebooks, Azure, DataBricks, Spark, PowerBI, Mainframe | Programming Languages: Python, Bash, Cobol, Pyspark, R | Programming Language Packages: "
+}

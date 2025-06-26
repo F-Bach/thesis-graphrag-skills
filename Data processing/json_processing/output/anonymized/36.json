@@ -1,0 +1,10 @@
+{
+  "processed_experience": {
+    "full_stack_developer": "2 years",
+    "senior_consultant": "15 years",
+    "software_developer": "2 years"
+  },
+  "processed_education": [],
+  "final name": "Jose",
+  "concatenated_summary": "Name: Jose | Experience: full_stack_developer: 2 years, senior_consultant: 15 years, software_developer: 2 years | Languages: Spanish Native, English B1 | Technical Skills: Docker, Grafana, MongoDB, SQL Optimization | Programming Languages: C#, JavaScript, Python, TypeScript, Visual Basic | Programming Language Packages: .NET (C#), ASP.NET (C#), Entity Framework (C#), WinForms (C#), Xamarin (C#), Express (JavaScript), Jest (JavaScript), Node.js (JavaScript), React (JavaScript), Redux (JavaScript), FastAPI (Python), Flask (Python), Pandas (Python), SQLAlchemy (Python), React (TypeScript), VB.NET (Visual Basic), WinForms (Visual Basic), DevExpress (Visual Basic)"
+}

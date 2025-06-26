@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "senior_data_engineer": "4 years",
+    "business_intelligence_developer": "5 years"
+  },
+  "processed_education": [
+    "Bachelor of Mechatronics Engineering",
+    "Master of AI and Data Science"
+  ],
+  "final name": "Dario",
+  "concatenated_summary": "Name: Dario | Experience: senior_data_engineer: 4 years, business_intelligence_developer: 5 years | Languages: Spanish Native, English B2 | Education: Bachelor of Mechatronics Engineering, Master of AI and Data Science | Technical Skills: Azure Synapse, Azure Data Factory, Azure Functions, Azure Logic Apps, DataBricks, AWS Glue, AWS Lambda, AWS, Azure | Programming Languages: Python, pyspark, C#, Shell, Visual Basic | Programming Language Packages: "
+}

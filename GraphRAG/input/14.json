@@ -1,0 +1,14 @@
+{
+  "processed_experience": {
+    "machine_learning_engineer": "1 year",
+    "data_scientist": "3 years",
+    "software_engineer_intern": "1 year",
+    "university_lecturer": "3 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Engineering",
+    "Master of Artificial Intelligence"
+  ],
+  "final name": "Diego",
+  "concatenated_summary": "Name: Diego | Experience: machine_learning_engineer: 1 year, data_scientist: 3 years, software_engineer_intern: 1 year, university_lecturer: 3 years | Languages: Spanish Native, English C1 | Education: Bachelor of Computer Engineering, Master of Artificial Intelligence | Technical Skills: AI Agents, AI Model Deployment, Amazon ECS, AWS, Azure, Bayesian Networks, Computer Vision, Data Augmentation, Deep Learning, Docker, Gen AI, Image Classification, Instance Segmentation, Jupyter Notebooks, LangChain, LLMs, Language Models, MongoDB, Neural Networks, NLP, OCR, RAG, Text Classification, Text Summarization, Transformers | Programming Languages: Java, JavaScript, Python, R | Programming Language Packages: JQuery (JavaScript), Node.js (JavaScript), React (JavaScript), BeautifulSoup (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Pillow (Python), PyPDF2 (Python), PyTorch (Python), Scikit-learn (Python), Seaborn (Python), TensorFlow (Python), XGBoost (Python), Tidyverse (R)"
+}

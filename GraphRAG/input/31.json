@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "tech_director": "5 years",
+    "solution_architect": "1 year",
+    "lead_data_engineer": "2 years",
+    "senior_big_data_engineer": "5 years",
+    "database_admin": "3 years"
+  },
+  "processed_education": [],
+  "final name": "Marc",
+  "concatenated_summary": "Name: Marc | Experience: tech_director: 5 years, solution_architect: 1 year, lead_data_engineer: 2 years, senior_big_data_engineer: 5 years, database_admin: 3 years | Languages: Spanish Native, English C1, French A1 | Technical Skills: AI Agents, AI Hardware Optimization, Amazon ECS, Amazon S3, Amazon EKS, Apache Cassandra, Apache Flink, Apache Hadoop, Apache Hive, Apache Kafka, Apache NiFi, Apache Spark, Apache Pulsar, Apache Storm, AWS, AWS CloudFormation, AWS CodeDeploy, AWS CloudTrail, AWS DynamoDB, AWS Glue, AWS Lambda, AWS Redshift, AWS RDS, AWS S3, AWS SageMaker, AWS SQS, Azure, Azure Data Factory, Azure DevOps, Azure Functions, BigQuery, Chatbots, CloudFormation, Data Lake, Data Mesh, Data Versioning, Data Warehouse, DataBricks, Delta Lake, Docker, Elastic Load Balancing, Elasticsearch, Flink, Google Bigtable, Grafana, Hive, Iceberg, IBM Cloud, Impala, Jupyter Notebooks, Kafka, Knowledge Graphs, Kylin, MariaDB ColumnStore, MongoDB, Multi-Task Learning, Neo4j, MapReduce, Polars, Presto, Prompt Engineering, Redshift, Snowflake, Speech-to-Text, Spark, SQL Optimization, Terraform, Text-to-Speech, Trino, Zeppelin, ZooKeeper, Airflow, dbt, Informatica, Apache Arrow, Apache Parquet, Apache Hudi, AWS Kinesis, AWS Bedrock, OpenAI, Cloud Architecture, Data Governance, Data Security, Data Lineage, Data Driven, IBM Watson, Cloudera, Hortonworks, Spark Optimization, Cost Management | Programming Languages: Python, C++, PySpark, Rust, Scala, Java, Kotlin, Shell | Programming Language Packages: FastAPI (Python), BeautifulSoup (Python), Jupyter (Python), NumPy (Python), OpenCV (Python), Pandas (Python), PyInstaller (Python), PySpark (Python), Pytest (Python), PyTorch (Python), Scikit-learn (Python), SQLAlchemy (Python)"
+}

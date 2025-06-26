@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "data_scientist": "1 year",
+    "researcher": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Digital and Multimedia Technology",
+    "Master of Big Data Analytics"
+  ],
+  "final name": "Luca",
+  "concatenated_summary": "Name: Luca | Experience: data_scientist: 1 year, researcher: 1 year | Languages: Spanish Native, English C1 | Education: Bachelor of Digital and Multimedia Technology, Master of Big Data Analytics | Technical Skills: Apache Spark, Audio Processing, Azure Data Factory, Azure DevOps, CNN, Data Drift Detection, Data Lake, DataBricks, Delta Lake, Deep Learning, Hyperparameter Tuning, Jupyter Notebooks, LLMs, MapReduce, Model Explainability, Model Interpretability, Model Optimization, MongoDB, Neural Networks, Reinforcement Learning, Sentiment Analysis, Time Series Forecasting, Transfer Learning, Video Analysis, Feature Engineering, MLFlow | Programming Languages: JavaScript, Python, R | Programming Language Packages: Puppeteer (JavaScript), Node.js (JavaScript), Angular (JavaScript), Jupyter (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Pillow (Python), Plotly (Python), Pyomo (Python), PySpark (Python), Pytest (Python), PyTorch (Python), Scikit-learn (Python), Scrapy (Python), Seaborn (Python), TensorFlow (Python), XGBoost (Python), caret (R), forecast (R), ggplot2 (R), leaflet (R), plotly (R), randomForest (R), RMarkdown (R), shiny (R), tidyr (R)"
+}

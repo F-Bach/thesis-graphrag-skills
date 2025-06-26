@@ -1,0 +1,15 @@
+{
+  "processed_experience": {
+    "senior_machine_learning_engineer": "1 year",
+    "senior_data_scientist": "3 years",
+    "research_assistant": "2 years"
+  },
+  "processed_education": [
+    "Master of Big Data & Business Analytics",
+    "Doctorate in Engineering",
+    "Master of Science & Technology",
+    "Bachelor of Civil Engineering"
+  ],
+  "final name": "Alvaro",
+  "concatenated_summary": "Name: Alvaro | Experience: senior_machine_learning_engineer: 1 year, senior_data_scientist: 3 years, research_assistant: 2 years | Languages: English C2, Spanish Native | Education: Master of Big Data & Business Analytics, Doctorate in Engineering, Master of Science & Technology, Bachelor of Civil Engineering | Technical Skills: Active Learning, Autoencoders, Azure, Azure Machine Learning, BigQuery, Computer Vision, Data Augmentation, Data Drift Detection, DataBricks, Deep Learning, Docker, Explainable AI, Gen AI, Knowledge Graphs, Kubernetes, LangChain, LLMs, Model Compression, Model Optimization, MongoDB, Object Detection, Prometheus, Redshift, Prompt Engineering, Sentiment Analysis, Text Classification, Text Summarization, Transformers, Transfer Learning, Informatica, Feature Engineering, MLFlow, ONNX | Programming Languages: C++, MATLAB, Python, Shell | Programming Language Packages: Deep Learning Toolbox (MATLAB), Simulink (MATLAB), FastAPI (Python), Flask (Python), Jupyter (Python), Django (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Pillow (Python), PyInstaller (Python), PySpark (Python), PyTorch (Python), Scikit-image (Python), Requests (Python), Scrapy (Python), Seaborn (Python), TensorFlow (Python), XGBoost (Python), Bash-it (Shell)"
+}

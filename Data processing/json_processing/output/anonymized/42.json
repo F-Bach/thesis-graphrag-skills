@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "machine_learning_engineer": "1 year",
+    "data_scientist": "3 years",
+    "software_developer": "1 year"
+  },
+  "processed_education": [
+    "Master of Business Analytics and Big Data",
+    "Bachelor of Computer Science"
+  ],
+  "final name": "Adam",
+  "concatenated_summary": "Name: Adam | Experience: machine_learning_engineer: 1 year, data_scientist: 3 years, software_developer: 1 year | Languages: English Native, Spanish Native | Education: Master of Business Analytics and Big Data, Bachelor of Computer Science | Technical Skills: Core ML, Computer Vision, NLP, Gen AI, Databases | Programming Languages: Python | Programming Language Packages: "
+}

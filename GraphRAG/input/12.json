@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "full_stack_developer": "3 years",
+    "data_scientist": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science",
+    "Master of Data Science & Innovation"
+  ],
+  "final name": "Mario",
+  "concatenated_summary": "Name: Mario | Experience: full_stack_developer: 3 years, data_scientist: 1 year | Languages: Galician Native, Spanish Native, English C2, French A1 | Education: Bachelor of Computer Science, Master of Data Science & Innovation | Technical Skills: Text Classification, Text Processing, Sentiment Analysis, NLP, Jupyter Notebooks | Programming Languages: TypeScript, Python, PHP | Programming Language Packages: Next.js (TypeScript), NestJS (TypeScript), Material-UI (TypeScript), React (TypeScript), Express (TypeScript), Node.js (TypeScript), Django (Python), FastAPI (Python), Flask (Python), Jupyter (Python), Pandas (Python), TensorFlow (Python), XGBoost (Python), Scikit-learn (Python)"
+}

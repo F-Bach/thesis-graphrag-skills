@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "intern_hydrogen_technologies_engineer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Industrial Technologies Engineering",
+    "Master of Big Data Analytics"
+  ],
+  "final name": "Jaime",
+  "concatenated_summary": "Name: Jaime | Experience: intern_hydrogen_technologies_engineer: 1 year | Languages: Spanish Native, English C1, Portuguese A1 | Education: Bachelor of Industrial Technologies Engineering, Master of Big Data Analytics | Technical Skills: Azure, CNN, DataBricks, Diffusion Models, Docker, Grafana, Iceberg, Jupyter Notebooks, LSTM, MapReduce, Model Explainability, Model Interpretability, Neural Networks, RAG, RNN, Sentiment Analysis, Spark, MLFlow, Streamlit | Programming Languages: Python, R, MATLAB | Programming Language Packages: Jupyter (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), Plotly (Python), PySpark (Python), PyTorch (Python), Scikit-learn (Python), Seaborn (Python), XGBoost (Python), ggplot2 (R), caret (R), plotly (R), shiny (R), RMarkdown (R)"
+}

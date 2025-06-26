@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "senior_data_engineer": "4 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science",
+    "Master of Big Data"
+  ],
+  "final name": "Rodrigo",
+  "concatenated_summary": "Name: Rodrigo | Experience: senior_data_engineer: 4 years | Languages: Spanish Native, English C1 | Education: Bachelor of Computer Science, Master of Big Data | Technical Skills: Apache Spark, AWS Lambda, AWS RDS, AWS Glue, AWS API Gateway, AWS EC2, AWS EMR, Jenkins, CI/CD, Delta Lake, Azure DevOps, Azure Data Factory, DataBricks, Docker | Programming Languages: Python, SQL, Scala, R, Unix | Programming Language Packages: "
+}

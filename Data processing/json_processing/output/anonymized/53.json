@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "partner": "1 year",
+    "data_engineer": "2 years",
+    "software_engineer": "2 years",
+    "intern_test_engineer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Industrial Electronic Engineering"
+  ],
+  "final name": "Ian",
+  "concatenated_summary": "Name: Ian | Experience: partner: 1 year, data_engineer: 2 years, software_engineer: 2 years, intern_test_engineer: 1 year | Languages: Spanish Native, English B2 | Education: Bachelor of Industrial Electronic Engineering | Technical Skills: Azure, python, data engineering, pyspark, pandas, Polars, Heroku | Programming Languages:  | Programming Language Packages: "
+}

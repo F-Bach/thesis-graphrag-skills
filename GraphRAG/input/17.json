@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "junior_consultant": "1 year",
+    "research_assistant": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Physics",
+    "Master of Big Data Analytics"
+  ],
+  "final name": "Oliver",
+  "concatenated_summary": "Name: Oliver | Experience: junior_consultant: 1 year, research_assistant: 1 year | Languages: English C2, French B1, German A2, Spanish Native | Education: Bachelor of Physics, Master of Big Data Analytics | Technical Skills: AI Agents, Apache Hadoop, Apache Spark, Azure, Azure DevOps, Chatbots, DataBricks, Docker, Image Classification, Jupyter Notebooks, Knowledge Graphs, LangChain, Language Models, LLMs, MongoDB, Neo4j, Feature Engineering, Streamlit | Programming Languages: MATLAB, Python, R | Programming Language Packages: "
+}

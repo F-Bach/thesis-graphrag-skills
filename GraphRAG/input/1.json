@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "data_engineer": "2 years"
+  },
+  "processed_education": [
+    "Bachelor of Data Engineering",
+    "Master of Big Data & Analytics"
+  ],
+  "final name": "Martin",
+  "concatenated_summary": "Name: Martin | Experience: data_engineer: 2 years | Languages: Spanish Native, English C1, Catalan Native, German A1 | Education: Bachelor of Data Engineering, Master of Big Data & Analytics | Technical Skills: Apache Hadoop, Apache Spark, AWS, AWS CloudFormation, AWS Glue, AWS Lambda, AWS S3, AWS SageMaker, Azure, Azure Data Factory, Azure DevOps, Data Lake, Data Mesh, DataBricks, Delta Lake, Deep Learning, Docker, Iceberg, Jupyter Notebooks, MongoDB, Spark, Time Series Forecasting, Neural Networks, Synthetic Data Generation | Programming Languages: Python, R | Programming Language Packages: Cython (Python), Jupyter (Python), Matplotlib (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Plotly (Python), PySpark (Python), PyTorch (Python), Scikit-learn (Python), Scikit-image (Python), Seaborn (Python), TensorFlow (Python), Tkinter (Python), XGBoost (Python), dplyr (R), ggplot2 (R), plotly (R), RMarkdown (R)"
+}

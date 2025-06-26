@@ -1,0 +1,20 @@
+{
+  "processed_experience": {
+    "director_of_analysis_and_investments": "1 year",
+    "sales_director": "4 years",
+    "data_engineer": "3 years",
+    "data_scientist": "3 years",
+    "controller_and_purchasing_responsible": "2 years",
+    "treasury_and_capital_markets_analyst": "1 year",
+    "equity_and_derivatives_trader": "3 years",
+    "commercial_advisor": "2 years"
+  },
+  "processed_education": [
+    "Master of Business Intelligence and Big Data Science",
+    "Master of Management of Financial Institutions",
+    "Master of Stock and Financial Markets",
+    "Bachelor of Economics and Management"
+  ],
+  "final name": "Hector",
+  "concatenated_summary": "Name: Hector | Experience: director_of_analysis_and_investments: 1 year, sales_director: 4 years, data_engineer: 3 years, data_scientist: 3 years, controller_and_purchasing_responsible: 2 years, treasury_and_capital_markets_analyst: 1 year, equity_and_derivatives_trader: 3 years, commercial_advisor: 2 years | Languages: English B2, Spanish Native | Education: Master of Business Intelligence and Big Data Science, Master of Management of Financial Institutions, Master of Stock and Financial Markets, Bachelor of Economics and Management | Technical Skills: Amazon S3, Apache Spark, AWS, AWS Glue, AWS S3, Azure, Azure Data Factory, Azure Functions, Azure Synapse, Computer Vision, Data Warehouse, DataBricks, Delta Lake, Facial Recognition, Jupyter Notebooks, Neo4j, Spark | Programming Languages:  | Programming Language Packages: "
+}

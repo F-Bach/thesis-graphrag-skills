@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "senior_data_engineer": "8 years",
+    "analyst_programmer": "6 years",
+    "consultant": "2 years",
+    "programmer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science"
+  ],
+  "final name": "Mateo",
+  "concatenated_summary": "Name: Mateo | Experience: senior_data_engineer: 8 years, analyst_programmer: 6 years, consultant: 2 years, programmer: 1 year | Languages: Spanish Native, English C2, French C2 | Education: Bachelor of Computer Science | Technical Skills: Amazon S3, Apache Hadoop, Apache Hive, Apache Kafka, Apache Pig, Apache Spark, AWS S3, Azure, Azure Data Factory, Azure DevOps, Data Lake, DataBricks, Delta Lake, Impala, Jupyter Notebooks, Kafka, MapReduce, MongoDB, Presto, Spark, Airflow, Apache Avro, Apache Parquet, Feature Engineering, Feature Stores | Programming Languages: C#, Java, JavaScript, Kotlin, Python, Scala, Shell | Programming Language Packages: Log4j (Java), JUnit (Java), Maven (Java), Spring (Java), Hibernate (Java), Gradle (Java), Flask (Python), PySpark (Python), Pytest (Python), ScalaTest (Scala)"
+}

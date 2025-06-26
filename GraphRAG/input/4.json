@@ -1,0 +1,13 @@
+{
+  "processed_experience": {
+    "data_scientist": "4 years",
+    "programmer": "2 years"
+  },
+  "processed_education": [
+    "Bachelor of Mathematics and Computer Science",
+    "Master of Data Science",
+    "Master of Big Data"
+  ],
+  "final name": "Leo",
+  "concatenated_summary": "Name: Leo | Experience: data_scientist: 4 years, programmer: 2 years | Languages: Spanish Native, English C1 | Education: Bachelor of Mathematics and Computer Science, Master of Data Science, Master of Big Data | Technical Skills: AI Governance, Apache Flink, Apache Spark, Azure DevOps, Bayesian Networks, Causal Inference, LLMs, Model Explainability, Model Interpretability, NLP, Sentiment Analysis, Model Calibration | Programming Languages: Python | Programming Language Packages: Jupyter (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), Plotly (Python), PySpark (Python), Pytest (Python), Scikit-learn (Python), Seaborn (Python), XGBoost (Python)"
+}

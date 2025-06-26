@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "frontend_software_engineer": "4 years",
+    "full_stack_developer": "1 year",
+    "web_developer": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Computer Science"
+  ],
+  "final name": "Angel",
+  "concatenated_summary": "Name: Angel | Experience: frontend_software_engineer: 4 years, full_stack_developer: 1 year, web_developer: 1 year | Languages: Spanish Native, English C1 | Education: Bachelor of Computer Science | Programming Languages: JavaScript, TypeScript | Programming Language Packages: React (JavaScript), Express (JavaScript), Jest (JavaScript), Lodash (JavaScript), Next.js (JavaScript), Node.js (JavaScript), Redux (JavaScript), Zustand (JavaScript), GraphQL (TypeScript), Material-UI (TypeScript), Next.js (TypeScript), React (TypeScript), React Hook Form (TypeScript)"
+}

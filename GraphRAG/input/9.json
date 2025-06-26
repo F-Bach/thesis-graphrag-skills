@@ -1,0 +1,10 @@
+{
+  "processed_experience": {
+    "software_developer": "5 years"
+  },
+  "processed_education": [
+    "Bachelor of Computer Engineering"
+  ],
+  "final name": "Pablo",
+  "concatenated_summary": "Name: Pablo | Experience: software_developer: 5 years | Languages: Spanish Native, English C1, German A2 | Education: Bachelor of Computer Engineering | Technical Skills: Azure | Programming Languages: C#, Java, JavaScript, Python, TypeScript | Programming Language Packages: .NET (C#), ASP.NET (C#), AutoMapper (C#), Blazor (C#), Dapper (C#), Entity Framework (C#), Moq (C#), NLog (C#), NUnit (C#), Serilog (C#), Next.js (JavaScript), Angular (JavaScript), Next.js (TypeScript), Angular (TypeScript)"
+}

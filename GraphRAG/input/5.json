@@ -1,0 +1,12 @@
+{
+  "processed_experience": {
+    "machine_learning_engineer_trainee": "1 year",
+    "student_intern": "1 year"
+  },
+  "processed_education": [
+    "Bachelor of Mathematics",
+    "Master of Big Data Analytics"
+  ],
+  "final name": "Lucas",
+  "concatenated_summary": "Name: Lucas | Experience: machine_learning_engineer_trainee: 1 year, student_intern: 1 year | Languages: Spanish Native, German Native, English C1 | Education: Bachelor of Mathematics, Master of Big Data Analytics | Technical Skills: Active Learning, Deep Learning, Docker, Embeddings, Gen AI, Hyperparameter Tuning, Image Classification, Jupyter Notebooks, Knowledge Graphs, LangChain, LLMs, MapReduce, MongoDB, Neural Networks, NLP, Prompt Engineering, Text Classification, Informatica, Feature Engineering, Streamlit, Apache Spark, CNN, Model Optimization | Programming Languages: C, MATLAB, Python, R | Programming Language Packages: Jupyter (Python), Matplotlib (Python), NumPy (Python), Pandas (Python), PySpark (Python), PyTorch (Python), Requests (Python), Scikit-learn (Python), Scrapy (Python), XGBoost (Python), Statsmodels (Python), Scikit-image (Python), caret (R), dplyr (R), forecast (R), ggplot2 (R), glmnet (R), knitr (R), lubridate (R), plotly (R), RMarkdown (R), shiny (R), tidyr (R), Tidyverse (R)"
+}

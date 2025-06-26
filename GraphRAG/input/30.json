@@ -1,0 +1,11 @@
+{
+  "processed_experience": {
+    "software_developer": "2 years",
+    "consultant": "2 years"
+  },
+  "processed_education": [
+    "Bachelor of Software Engineering"
+  ],
+  "final name": "Gael",
+  "concatenated_summary": "Name: Gael | Experience: software_developer: 2 years, consultant: 2 years | Languages: Spanish Native, English B2 | Education: Bachelor of Software Engineering | Technical Skills: AI Security, Streamlit, Apache Parquet, Informatica | Programming Languages: Python, Java, JavaScript, C++, TypeScript | Programming Language Packages: BeautifulSoup (Python), Django (Python), FastAPI (Python), Flask (Python), Jupyter (Python), Keras (Python), Matplotlib (Python), NetworkX (Python), NumPy (Python), OpenCV (Python), Pandas (Python), Pytest (Python), Pytest-flask (Python), Pytest-django (Python), Spring (Java), Spring Boot (Java), Maven (Java), JUnit (Java), Hibernate (Java), Jackson (Java), Log4j (Java), Next.js (JavaScript), Node.js (JavaScript), React (JavaScript), Redux (JavaScript), Gulp (JavaScript), D3.js (JavaScript), Chart.js (JavaScript), Qt (C++), OpenGL (C++), Unreal Engine (C++), React (TypeScript), React Hook Form (TypeScript), ts-jest (TypeScript), Next.js (TypeScript), Chakra UI (TypeScript)"
+}
